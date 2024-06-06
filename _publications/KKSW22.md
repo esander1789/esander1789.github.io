@@ -1,9 +1,9 @@
 ---
-title: " "
+title: "Paper Title Number "
 collection: publications
 permalink: 
 excerpt: ' '
-date:  
+date:  2022-01-01
 venue: ' '
 slidesurl: ' '
 paperurl: ' '
