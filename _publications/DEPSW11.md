@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
+permalink:  /publication/DEPSW11
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+date: 2011-01-01
+author:  "Jonathan P. Desi, Hanein Edrees, Joseph J. Price, E. Sander, and T. Wanner"
+venue:  "SIAM Journal on Applied Dynamical Systems"
+paperurl2:  http://epubs.siam.org/doi/abs/10.1137/100801378
+slidesurl:  https://doi.org/10.1137/100801378
+paperurl:  http://math.gmu.edu/~sander/evelynpapers/DesiEdreesetal11.pdf
+title:  "The dynamics of nucleation in stochastic Cahn-Morral systems"
+citation: "10(2): 707-743"
+collection: publications
+
+---

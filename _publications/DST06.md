@@ -1,11 +1,14 @@
 ---
-title: "Fractals and fractal correlations"
-collection: publications
-permalink: http://www.aip.org/cip/
-excerpt: 'About some stuff'
-date: 1994-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://math.gmu.edu/~sander/evelynpapers/cip94/ciptext.pdf'
-citation: 'E. Sander, L.M. Sander, and R.M. Ziff (1994). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 8(4):420-425.'
----
+permalink:  /publication/DST06
 
+date: 2006-01-01
+author:  "J.P. Desi, E. Sander and T. Wanner "
+venue:  "Discrete and Continuous Dynamical Systems, Series A"
+paperurl2:  https://www.aimsciences.org/article/doi/10.3934/dcds.2006.15.1049
+slidesurl:  https://doi.org/http://dx.doi.org/10.3934/dcds.2006.15.1049
+paperurl:  http://math.gmu.edu/~sander/evelynpapers/DesiEtalDCDS06.pdf
+title:  "Complex transient patterns on the disk"
+citation: "15(4):1049-1078"
+collection: publications
+
+---
