@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Evelyn Sander / Webpage for Evelyn Sander"
+title                    : "Evelyn Sander"
 title_separator          : "-"
 name                     : &name "Evelyn Sander"
 description              : &description "Professor, Department of Mathematical Sciences, George Mason University"
