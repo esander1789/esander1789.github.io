@@ -23,11 +23,3 @@ My current research is primarily in the fields of dynamical systems and mathemat
 - Phase field models in materials science
 - 3D printing of mathematical objects
 
-Other
-----
-
- 
-
-1. Former Editor-in-Chief of SIAM Journal on Applied Dynamical Systems
-1. See [publications](/publications/) 
-
