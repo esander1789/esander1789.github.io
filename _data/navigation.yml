@@ -24,6 +24,9 @@ main:
   - title: "Service"
     url: /service/
 
+  - title: "Why Math?"
+    url: /whymath/
+
     
 #  - title: "Guide"
 #    url: /markdown/

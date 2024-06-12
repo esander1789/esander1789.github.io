@@ -23,3 +23,9 @@ My current research is primarily in the fields of dynamical systems and mathemat
 - Phase field models in materials science
 - 3D printing of mathematical objects
 
+Fun stuff 
+======
+
+- [GMU Math Makerlab](makerlab/)
+- [Makerlab blog](http://gmumathmaker.blogspot.com)
+- [Mathematical movies](movie/)
