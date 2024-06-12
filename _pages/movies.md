@@ -6,7 +6,7 @@ permalink: /movie/
 ---
 
 
-1. [Pendulum Gyrations](https://math.gmu.edu/~sander/EvelynSite/pendulum-gyrations.html), Meanderings of attractor basins for the forced damped pendulum, 2014, by Evelyn Sander and Jim Yorke.
+1. [Pendulum Gyrations](https://math.gmu.edu/~sander/movies/PendulumGyrations.mp4), Meanderings of attractor basins for the forced damped pendulum, 2014, by Evelyn Sander and Jim Yorke.
 1. [Homoclinic Bifurcation in the Henon Map](http://math.gmu.edu/~sander/movies/henon.mov), 2015, by Evelyn Sander.
 1. [Nucleation](http://math.gmu.edu/~wanner/nucsim/index.html), 2010, by Thomas Wanner. Views from our paper on the nature of phase separation in ternary alloys.
 1. [Spinodal Decomposition](http://math.gmu.edu/~wanner/spidec/index.html), 2008, by Thomas Wanner. An mesoscopic view of a metal alloy as it undergoes phase separation. In a series of papers, we have been able to give an explanation for the nature of the early pattern formation.
