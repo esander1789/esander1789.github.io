@@ -1,0 +1,152 @@
+<html><head>
+<title>Hyperbolic.m</title><!-- Copyright (c) 1996 by The Geometry Center. All Rights Reserved. --></head>
+<body bgcolor="#ffffff">
+<!-- *Navigation-Links -->
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+<hr>
+<p>
+
+<!-- *Begin-Document-Body -->
+</p><h1>Hyperbolic.m: A general-purpose hyperbolic geometry package</h1>
+
+Originally published as:
+<p>
+</p><pre>Article: 131 of geometry.college
+Xref: news1.cis.umn.edu geometry.forum:145 geometry.college:131
+Newsgroups: geometry.forum,geometry.college
+From: sander@geom.umn.edu (Evelyn Sander)
+Subject: Hyperbolic.m: hyperbolic geometry software
+Organization: University of Minnesota, Twin Cities
+Date: Tue, 1 Feb 1994 20:58:29 GMT
+</pre>
+<p>
+"The Elements," a 325 BC publication of Euclid, records Euclid's
+principles of geometry. For many centuries, these principles remained
+the fundamental basis of the study of geometry. There are five
+postulates of particular importance:
+</p><p>
+</p><ol>
+<li>A straight line may be drawn from any point to any other point.
+<p>
+</p></li><li>The straight line may be produced to any length.
+<p>
+</p></li><li>Around any point as a center, a circle of any radius may be described.
+<p>
+</p></li><li>Any two right angles are equal.
+<p>
+</p></li><li>Given a line and a point not on the line, there is exactly one
+line through the given point not intersecting the given line.[B]
+</li></ol>
+<p>
+This fifth postulate, also called the parallel postulate, receives
+special attention. Mathematicians did not like it because it possesses
+a different character from the first four, being global rather than
+local in nature. Since intersection of lines can take place at an
+arbitrary distance, there is no way to actually check whether lines
+intersect. Thus starting as soon as the 4th century AD, there were
+attempts to prove that 5 follows from 1-4. All attempts to prove this
+failed, since in fact the parallel postulate is independent of 1-4. It
+was not until the middle of the 19th century that Bolyai and
+Lobachevsky separately showed that in fact it is possible to
+construct a consistent geometry in which the parallel postulate does
+not hold. In this geometry, there are infinitely many non-intersecting
+lines through a given point. It is called hyperbolic geometry.
+</p><p>
+Mathematicians found it difficult to accept hyperbolic geometry. In
+the middle of the 19th century, most were unable to imagine or accept
+any geometric system which did not fit with Euclid's principles. As an
+indication, even Bolyai's father, a mathematician himself, was unable
+to believe or understand the work of his son because of his belief in
+the absolute truth of Euclidean geometry.[B]
+</p><p>
+Soon after the work of Bolyai and Lobachevsky, others constructed
+models of hyperbolic geometry within Euclidean space. By renaming
+certain geometric objects from Euclidean space as the lines and
+circles, people developed systems in which all of Euclid's postulates
+hold except that there were infinitely many non-intersecting lines,
+violating the parallel postulate. These models, all isometric, verify
+the existence of hyperbolic geometry.  As Courant and Robbins state in
+"What is Mathematics," "This must, eo ipso, be just as consistent as
+the original Euclidean geometry, because it is presented to us, seen
+from another point of view and described with other words, as a body
+of facts of ordinary Euclidean geometry."[C]
+</p><p>
+The modern approach to geometry is somewhat different from that of
+"The Elements." However, a (geodesically complete Riemannian) geometry
+on a surface is essentially a structure on the surface obeying the
+modernized versions of postulates 1-4. Each surface has a
+unique associated geometry locally isometric to the sphere, the plane,
+or the hyperbolic plane. The sign of a special constant called the
+Euler characteristic determines which of the three kinds of geometries
+a surface possesses.  There is a complete classification of all
+compact connected surfaces. By computing the Euler characteristic of all
+these surfaces, one can draw an amazing conclusion; of these infinite
+number of possible surfaces, only seven have non-negative curvature,
+implying that all but seven are hyperbolic. For example, all n-holed
+tori with n greater than 1 have an associated hyperbolic geometry. Among
+the quite
+common class of compact connected surfaces, a geometric structure that
+took over a millennium to discover is overwhelmingly the most frequent.
+</p><p>
+Since every surface with a hyperbolic geometry is locally isometric to
+the hyperbolic plane, the modern study of hyperbolic geometry involves
+studying models for the hyperbolic plane which are embedded in
+Euclidean space. I describe the properties of the Klein, Poincare, and
+upper half plane
+models with accompanying figures in the article
+<a href="http://www.geom.uiuc.edu/docs/forum/hype/model.html">Models of the Hyperbolic Plane</a>.
+</p><p>
+Oliver Goodman, a postdoc at the Geometry Center, has written a
+general-purpose hyperbolic geometry software package called
+Hyperbolic.m. Operating within Mathematica, Hyperbolic.m allows the
+user to manipulate hyperbolic objects (in any dimensional hyperbolic
+space) such as points, lines, vectors, polyhedra, and other
+structures. The user enters these structures within any of five
+hyperbolic models. The package calculates angles and lengths for
+vectors and distances between points, convert between different
+models, and apply isometries. It also computes triangle groups.
+Hyperbolic.m allows the user to display the results of manipulations
+using Mathematica graphics. See the description of models referenced above,
+ which
+contains figures made with Hyperbolic.m.
+</p><p>
+Although there are several programs which, when combined, do what
+Hyperbolic.m does, there are none that do everything. The package's
+versatility allows the user to use only one program, and to take
+advantage of other functions within Mathematica.
+</p><p>
+If you want a copy of this program, click to
+<a href="ftp://ftp.geom.umn.edu/pub/software/hyperbolic.tar.Z">download hyperbolic.tar</a>.
+Hyperbolic.m is also available by anonymous ftp from ftp.geom.umn.edu in the
+file hyperbolic.tar.Z in the pub/software directory.
+ Any questions or
+comments on the package
+should be sent to Goodman (oag@geom.umn.edu).
+</p><p>
+This article was written based on interviews with Goodman, as well as
+material from the following references:
+</p><p>
+[B] Janos Bolyai, "Appendix," Originally published in 1832, North
+Holland, 1987, Introduction by Ferenc Karteszi.
+</p><p>
+[C] Courant/Robbins, "What is Mathematics?" Oxford University Press,
+London, 1941.
+<!-- *End-Document-Body -->
+</p><p>
+
+<!-- *Navigation-Links -->
+</p><hr>
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+
+<!-- *GC-Common-Footer -->
+<hr>
+<nobr><a href="http://www.geom.uiuc.edu/"><img src="hype_files/home.gif" alt="[HOME]" align="middle"></a>
+<i>The Geometry Center Home Page</i></nobr>
+<p>
+Comments to:
+<a href="http://www.geom.uiuc.edu/admin/mail/webmaster.html">webmaster@www.geom.uiuc.edu</a><br>
+Created:  May 15 1994 --- 
+<!-- hhmts start -->
+Last modified: Jun 18 1996
+<!-- hhmts end -->
+</p></body></html>

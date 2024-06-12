@@ -1,0 +1,233 @@
+<html><head>
+<title>How to Fill N-Dimensional Space with Hoops</title><!-- Copyright (c) 1996 by The Geometry Center. All Rights Reserved. --></head>
+<body bgcolor="#ffffff">
+<!-- *Navigation-Links -->
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+<hr>
+<p>
+
+<!-- *Begin-Document-Body -->
+</p><h1>How to Fill <i>n</i>-Dimensional Space with Hoops</h1>
+
+Evelyn Sander<br>
+geometry.research, geometry.college, 20 May 1995.
+
+<p>
+
+A geometric circle in R^3 is the set of points in a fixed plane that
+lie a fixed positive distance from a center point that lies in the
+same plane.  (Notice that "circle" refers to the curve, and not to the
+disk it bounds.) In my posting and followup <a href="http://www.geom.uiuc.edu/docs/forum/hoops_links/circle.html">
+"Circle Puzzle,"</a> (geometry.college, geometry.puzzles, November 28,
+1994), I explained a way to fill all of R^3 with disjoint geometric
+circles. It is discontinuous; i.e. the map from each point on by a
+particular circle to the triple (center, normal, radius) is not a
+continuous map. It is not hard to show, using algebraic topology, that
+it is impossible to fill all of R^3 continuously with disjoint
+geometric circles.
+
+</p><p>
+
+Geometric circles of unit radius are called hoops.  Using the Axiom of
+Choice, J.H. Conway and H.T. Croft showed that it is nevertheless
+possible to discontinuously fill three-space using disjoint hoops.
+However, Daniel Asimov has shown that using continuous families of
+disjoint hoops, it is not possible to fill a region of infinite
+volume.
+
+</p><p>
+
+This article describes research results of Daniel Asimov, of NASA Ames
+Research Center in Mountain View, California. It gives an example of
+an open region in three-space continuously filled with hoops. It then
+explains the higher dimensional generalizations of continuous families
+of hoops.
+
+
+
+</p><p>
+
+It is possible to use hoops to continuously fill an open solid torus
+of revolution in R^3 with the two generating circles both of radius
+one; Dan Asimov refers to this region as a "bialy", after the bread
+like a bagel with the hole in the middle having "radius zero." The
+configuration of hoops on each torus is called the "circles of
+Villarceau," after the French mathematician who first discovered them
+in 1848.
+
+</p><p>
+
+In order to set up the generalization to higher dimensions, this
+description of the circles of Villarceau uses the stereographic
+projection of the Hopf fibration of the three-sphere. In a previous
+article, I described this same configuration of hoops in a less
+technical manner.  See <a href="http://www.geom.uiuc.edu/docs/forum/hoops_links/hoops1.html">"Hoops in
+three-space,"</a> geometry.college, geometry.research, June 9, 1993,
+For more details, see Asimov's paper
+
+<a href="http://www.nas.nasa.gov/NAS/TechReports/RNRreports/dasimov/RNR-93-005/RNR-93-005.html">
+"Hoops in R^3,"</a> a NASA tech report.
+
+</p><p>
+
+The Hopf fibration of the three-sphere is the division of the
+three-sphere into certain great circles, called Hopf circles, in such
+a way that each point is on exactly one Hopf circle. Precisely,
+consider the three-sphere embedded in four-space; use pairs of complex
+numbers to specify points in four-space. The Hopf circles are the
+intersections of the complex one-dimensional linear subspaces with the
+three-sphere. A complex one-dimensional linear subspace is the same
+idea as a real one-dimensional linear subspace, except that all the
+numbers are complex. Namely, for fixed complex z and w, a linear
+subspace containing (z,w) is {(b*z,b*w): b varies over all complex
+numbers}. For more about the Hopf fibration, see the description in
+<a href="http://www.geom.uiuc.edu/docs/forum/hoops_links/energy.html">"Energies of Hopf Links,"</a> geometry.college,
+June 17, 1994.  For pictures of Hopf fibrations, also see
+<a href="http://www.geom.uiuc.edu/locate/banchoff/script/b3d/hypertorus.html">Tom
+Banchoff's movies of the Hopf fibration for just one torus,</a> as
+well as Topology and Mechanics with Computer Graphics: Linear
+Hamiltonian Systems in Four Dimensions T. Banchoff, H. Ko&amp;ccedilak,
+F. Bisshopp and D. Laidlaw,<i>Advances in Applied Mathematics</i>
+(1986), 282-308.
+
+</p><p>
+
+A stereographic projection from the three-sphere to R^3 is analogous
+to stereographic projection from the two-sphere to the
+plane. Stereographic projection preserves circles and lines. Thus
+projections of the Hopf circles are circles, except the circle
+throught the projection point, which projects to a line and a point at
+infinity. Since we know that the Hopf circles fill up the
+three-sphere, we know that stereographic projection of the Hopf
+fibration fills three-space.  Precisely, it gives a foliation of R^3
+minus the z-axis by nested tori. Each individual torus consists of
+geometric circles of a single radius; each of the geometric circles
+wrap around the torus once in each generating direction.
+
+</p><p>
+
+In order to get hoops rather than geometric circles of different
+radii, we apply a uniform shrinking to each individual torus. In order
+to preserve continuity, nearby tori from the Hopf fibration are shrunk
+by close shrinking constants. By choosing the shrinking constants
+wisely, after shrinking each torus, we get another series of nested
+tori filled now by hoops.  The new nested tori all have one of the two
+generators equal to the unit circle in the xy-plane with the origin as
+center. The second generating circles of the new nested tori have
+distinct radii, including every non-negative number less than one.
+Thus the disjoint hoops comprising the new tori are a continuous way to
+fill the open bialy.
+
+</p><p>
+
+<img src="khoops_files/hoop1.gif">
+
+</p><p>
+
+Figure 1 shows three hoops in a torus around
+halfway through the solid bialy.
+
+</p><p>
+
+<img src="khoops_files/hoop2.gif">
+
+</p><p>
+
+Figure 2 shows more hoops comprising
+the one torus.
+
+</p><p>
+
+<img src="khoops_files/hoop3.gif">
+
+
+</p><p>
+
+Figure 3 shows three different tori filled with in the solid
+bialy.
+
+</p><p>
+
+<img src="khoops_files/hoop4.gif">
+
+</p><p>
+
+Figure 4 shows many circles in the filled  bialy.
+
+</p><p>
+
+What happens in higher dimensions? Define a k-hoop in N-space to be
+the set of points in a (k+1)-dimensional plane (not necessarily
+containing the origin) that lie a unit distance from a point that lies
+in the same (k+1)-dimensional plane. A k-hoop might also be described
+as a "unit geometric k-sphere."
+
+</p><p>
+
+Now we let N = 2k+1. Is it possible to continuously fill up a region
+of (2k+1)-space with disjoint k-hoops? The answer is yes for k = 0, 1,
+3, and 7; the filling can be done using the (2k+1)-dimensional
+analogue of the stereographic projection of the Hopf fibration,
+followed by uniform shrinking on each S^k x S^k "torus" (similar to
+the three-dimensional case). That there are such Hopf fibrations is
+related to the fact that division algebras over the real numbers are
+possible only in dimensions 1, 2, 4, and 8, as exemplified by the
+reals (R), complexes (C), quaternions (H), and octonions (O).
+
+</p><p>
+
+Surprisingly, Asimov has shown that the dimensions k = 0, 1, 3, and 7,
+for which one can construct (2k+1)-bialys, are the only dimensions for
+which an open set in R^(2k+1) can be continuously filled by k-hoops.
+
+</p><p>
+
+Here is a table of volumes of the (2k+1)-bialys described above. Just
+as in the three-dimensional case, there is a finite bound on the
+volume of the region filled continuously in higher
+dimensions. However, it is not known whether these are the largest
+volumes in these dimensions which can be continuously filled by
+k-hoops, with the exception of the case k = 0, where 4 is clearly the
+maximum.
+
+</p><p>
+</p><pre>Dimension k of the hoops     Volume of the (2k+1)-bialy
+
+       0                                 4
+       1                                 2*pi^2
+       3                                 pi^4
+       7                                 (pi^8)/72
+</pre>
+<p>
+
+
+Using a cartesian product with any R^n, these examples of k-hoops
+foliating an open set in R^(2k+1) immediately lead to examples where
+an open set in R^(2k+1+n) is foliated by k-hoops for any n &gt;= 0.
+Other cases are not yet known.  For example, it is unknown whether an
+open set in R^6 can be foliated by 2-hoops (geometric 2-spheres of
+unit radius in R^6).
+
+</p><p>
+
+This article is based on a Geometry Center talk by Daniel Asimov on
+November 15, 1994. Thanks to him also for helping with the figures.
+<!-- *End-Document-Body -->
+</p><p>
+
+<!-- *Navigation-Links -->
+</p><hr>
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+
+<!-- *GC-Common-Footer -->
+<hr>
+<nobr><a href="http://www.geom.uiuc.edu/"><img src="khoops_files/home.gif" alt="[HOME]" align="middle"></a>
+<i>The Geometry Center Home Page</i></nobr>
+<p>
+Comments to:
+<a href="http://www.geom.uiuc.edu/admin/mail/webmaster.html">webmaster@www.geom.uiuc.edu</a><br>
+Created:  May 19 1995 --- 
+<!-- hhmts start -->
+Last modified: Jun 18 1996
+<!-- hhmts end -->
+</p></body></html>

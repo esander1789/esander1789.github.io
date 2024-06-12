@@ -6,7 +6,7 @@ author:  "Peter Rizzi, Evelyn Sander, and Thomas Wanner"
 venue:  "Communications in Nonlinear Science and Numerical Simulation"
 paperurl2:  https://arxiv.org/abs/2203.10340
 slidesurl:  https://doi.org/https://doi.org/10.1016/j.cnsns.2022.106789
-paperurl:  https://math.gmu.edu/~sander/evelynpapers/preprints/2203.10340.pdf
+paperurl:  ../files/RSW22.pdf
 title:  "Equilibrium validation for triblock copolymers via inverse norm bounds for fourth-order elliptic operators"
 citation: "115: 106789"
 collection: publications

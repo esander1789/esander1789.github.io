@@ -1,0 +1,86 @@
+<html><head>
+<title>Quasitiler</title><!-- Copyright (c) 1996 by The Geometry Center. All Rights Reserved. --></head>
+<body bgcolor="#ffffff">
+<!-- *Navigation-Links -->
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+<hr>
+<p>
+
+<!-- *Begin-Document-Body -->
+</p><h1>QuasiTiler: New software to create quasiperiodic tilings of the plane</h1>
+<p>
+geometry.college, geometry.forum, Tue, 18 Jan 1994
+</p><p>
+
+Penrose tilings are a beautiful nonperiodic tilings of the plane using
+only two different rhombi. They have a variety of applications. For
+example, they arise in the study of quasicrystals; see Evelyn Sander,
+"<a href="http://www.geom.uiuc.edu/docs/forum/quasicrystals/">Quasicrystals</a>," geometry.college,
+November 15, 1993. The tilings have
+a rich mathematical structure: Despite their nonperiodicity, they
+exhibit five-fold symmetry, obey certain strict matching rules, and
+only allow for a finite number of different ways to put the two tiles
+together. They also have the property of quasiperiodicity; namely,
+given any pattern in the tiling, there is an R&gt;0 such that it is
+possible to find a repeat of the pattern within any ball of radius R.
+</p><p>
+In 1982 N.G. de Bruijn showed that all Penrose tilings of the plane
+result from the projection of part of a five-dimensional lattice onto
+a plane. In fact, by specifying the "slope" and "offset" in five
+dimensions of the plane upon which to project, one can specify a
+tiling. If this plane is invariant under five-fold rotation about the
+body diagonal of the unit cube, and if we chose carefully which
+part of the lattice is projected, then the tiling is a Penrose tiling.
+</p><p>
+More specifically, we start with the five-dimensional integer lattice
+and its connecting 2-facets. Pick a plane E upon which we will project
+facets and points from the lattice to create the tiling. We choose E
+orthogonal to the line through the body diagonal of the unit cube.
+Here is how we decide which are the allowed vertices in the tiling of
+E: Project the unit cube into the three-dimensional orthogonal
+complement of E. The resulting object is a rhombic icosahedron which
+we call K. The allowed vertices are exactly those which land inside K
+under projection, and the allowed facets are those for which all four
+associated vertices are allowed. Our restrictions on E and allowed
+vertices forbid overlaps and gaps in the tiling.
+</p><p>
+Eugenio Durand, a Geometry Center programmer, has written the program
+QuasiTiler to find the described quasiperiodic tilings of the plane.
+He originally wrote it to help Marjorie Senechal with her work on
+quasicrystals. The program allows the user to specify the "slope" of
+the plane E, using a mouse to modify a picture of the five-dimensional
+unit cube.  There are three degrees of freedom for the offset of the
+plane. The user uses three sliders to change the offset. One of the
+offset directions specifies whether the tiling is a Penrose tiling.
+The program then shows the tiling that the user has specified. In
+addition, the user may specify a lattice dimension other than five.
+It is an easy program to use, and the results are beautiful.
+</p><p>
+QuasiTiler runs on Next machines. It is available by anonymous ftp in
+the /u/ftp/pub directory of ftp.geom.umn.edu.  Try the
+<a href="http://www.geom.uiuc.edu/apps/quasitiler/about.html">WWW version of Quasitiler.</a>
+</p><p>
+The following reference describes Penrose tiles and briefly mentions
+the approach used in QuasiTiler:
+</p><p>
+Ivars Peterson, "The mathematical tourist: snapshots of modern
+mathematics," New York, Freeman, 1988.
+<!-- *End-Document-Body -->
+</p><p>
+
+<!-- *Navigation-Links -->
+</p><hr>
+<b>Up:</b> <a href="http://www.geom.uiuc.edu/docs/forum/"><i>Geometry Forum Articles</i></a><br>
+
+<!-- *GC-Common-Footer -->
+<hr>
+<nobr><a href="http://www.geom.uiuc.edu/"><img src="quasitiler_files/home.gif" alt="[HOME]" align="middle"></a>
+<i>The Geometry Center Home Page</i></nobr>
+<p>
+Comments to:
+<a href="http://www.geom.uiuc.edu/admin/mail/webmaster.html">webmaster@www.geom.uiuc.edu</a><br>
+Created:  January 3 1995 --- 
+<!-- hhmts start -->
+Last modified: Jun 18 1996
+<!-- hhmts end -->
+</p></body></html>
