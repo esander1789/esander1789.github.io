@@ -26,6 +26,4 @@ My current research is primarily in the fields of dynamical systems and mathemat
 Fun stuff 
 ======
 
-- [GMU Math Makerlab](makerlab/)
-- [Makerlab blog](http://gmumathmaker.blogspot.com)
 - [Mathematical movies](movie/)

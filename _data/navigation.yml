@@ -18,6 +18,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Makerlab"
+    url: /makerlab/
+
   - title: "Students"
     url: /students/
 
