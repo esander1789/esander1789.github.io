@@ -71,22 +71,22 @@ permalink: /service/
 
 ## Conference Organizing 
 
- - Advances in Nonlinear Dynamics Minisymposium, ICIAM, Tokyo Japan (with Jay Mireles James),		August 20- 25, 2023
  - Organizing Committee for "Computer Assisted Proof in Nonlinear Analysis," Centre de Recherches Mathématiques, Montreal,		September 9- 13, 2024
+ - Tori and Chaos in Near-Hamiltonian Dynamics with Applications, SIAM Conference on Applied Dynamical Systems, Portland, OR  (with Jim Meiss and Dan Scheeres),		May 14- 15, 2023
+ - Advances in Nonlinear Dynamics Minisymposium, ICIAM, Tokyo Japan (with Jay Mireles James),		August 20- 25, 2023
+  - Computing Quasiperiodic Tori for Hamiltonian Systems: Applications to Celestial Mechanics, SIAM Conference on Applications of Dynamical Systems, Virtual (with Jim Meiss and Daniel Scheeres),		May 21- 25, 2021
  - Organizing Committee Member for SIAM Conference on Applications of Dynamical Systems (DS19), Snowbird, UT,		May 21- 25, 2019
+ - Numerical Measures of Chaos and Regularity, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (with Jim Meiss),		May 21- 25, 2019
  - Organizing Committee, Midwest/McGehee Dynamical Systems Conference,  Minneapolis, MN	,	November 1- 4, 2018
  - Organizer of 2017 SIAM Conference on Applications in Dynamical Systems (DS17), Snowbird, Utah (with Martin Wechselberger),		May 21-25, 2017
  - Career Options for Women in Math, Institute for Mathematics and it Applications,  (with Cheri Shakiban),		March 4- 5, 2013
  - SIAG/DS Minisymposium Track (consisting of six minisymposia), at the ICIAM 2011, Vancouver BC Canada	,	July 18-22, 2011
+ - Applied Topological Dynamics, Minisymposium, (as part of the track organized above), ICIAM, Vancouver BC, Canada,		July 18-22, 2011 
  - Scientific Organizing Committee Member, SIAG/DS, SIAG/APDE and Spanish Math Societies Joint Conference, Barcelona, Spain	,	May 31 - June 4, 2010
- - http://math.gmu.edu/~sander/csumsworkshop/, George Mason, Fairfax, VA (with Sarah Day),		April 20-21, 2008
- - Tori and Chaos in Near-Hamiltonian Dynamics with Applications, SIAM Conference on Applied Dynamical Systems, Portland, OR  (with Jim Meiss and Dan Scheeres),		May 14- 15, 2023
- - Computing Quasiperiodic Tori for Hamiltonian Systems: Applications to Celestial Mechanics, SIAM Conference on Applications of Dynamical Systems, Virtual (with Jim Meiss and Daniel Scheeres),		May 21- 25, 2021
- - Numerical Measures of Chaos and Regularity, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (with Jim Meiss),		May 21- 25, 2019
- - Applied Topological Dynamics, Minisymposium, (as part of the track organized above), ICIAM, Vancouver BC, Canada,		July 18-22, 2011
  - Topological Methods for Applied Dynamics, Special Session, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (with Jim Yorke),		May 21-25, 2009
  - Applications of a geometric approach to chaotic dynamics, Special Session, AMS Central Sectional Meeting, Macalester College, St. Paul, MN, (with Judy Kennedy and Jim Yorke),		April 2- 3, 2009
  - Applied Dynamical Systems Minisymposium, SIAM Annual Meeting, San Diego, CA,		July 2- 4, 2008
+ - http://math.gmu.edu/~sander/csumsworkshop/, George Mason, Fairfax, VA (with Sarah Day),		April 20-21, 2008
  - Applied Topological Dynamics Special Session, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT, May, 2007 (with Judy Kennedy)		May 21- 25, 2007
 
 ## Reviews 
