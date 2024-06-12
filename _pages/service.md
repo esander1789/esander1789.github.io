@@ -58,11 +58,11 @@ permalink: /service/
 
 ## Department Service 
 
- - Graduate Director, GMU Dept of Math. Sciences,		August 27, 2023 -		Present
+ - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
  - GMU Graduate Committee,			2000	 -	 2010, 2022	 -	Present
  - Curator of the Mathematical Sciences art exhibit, Exploratory Hall display case,			 2014 -		 present
  - Preliminary Exam Committee: Algebra, Linear Analysis, Numerical Analysis, Ordinary Differential Equations,			 2006- present
- - Teaching peer review,			April 23, 2022
+ - Teaching peer review,			April, 2022
  - Hiring committee,	 		2021 - 2022
  - Recruitment and retention of minority graduate students,			2020 -	2021
  - Chair hiring committee (3 tenure track positions),		2020 -	2021
@@ -91,16 +91,16 @@ permalink: /service/
 
 ## Reviews 
 
- - Review of proposals, Simons Collaboration Grants for Mathematicians,			March 15, 2020	 
- - Review of proposals, Simons Collaboration Grants for Mathematicians,			March 15, 2019
- - Review of proposal for the Chilean National Science Foundation,			January 15, 2019 
- - Review of proposal for the Swiss National Science Foundation,			January 15, 2019
+ - Review of proposals, Simons Collaboration Grants for Mathematicians,			March , 2020	 
+ - Review of proposals, Simons Collaboration Grants for Mathematicians,			March , 2019
+ - Review of proposal for the Chilean National Science Foundation,			January , 2019 
+ - Review of proposal for the Swiss National Science Foundation,			January , 2019
  - NSF Review Panel,			March 22	 - 24, 2015
- - NSF Written proposal reviews,			February 20, 2010 
+ - NSF Written proposal reviews,			February, 2010 
  - NSF Site Visitor, Institute for Applied Mathematics and its Applications (IMA), Minneapolis, Minnesota,			March 24 -	25, 2009
  - NSF Review Panel	,		March 22- 24, 2008
  - Joint NIH-NSF Review Panel/other NIH reviewing,			February 27- 28, 2008
- - NSF Written proposal reviews,			February 20, 2008	
+ - NSF Written proposal reviews,			February , 2008	
  - NSF Review Panel,			March 22-24, 2007
  - NSF Review Panel,			March 22- 24, 2006
  - Mathematical Reviews	,		 1998	 -	2006
@@ -112,8 +112,8 @@ permalink: /service/
  
  - Academic panelist, Math department professional development event,		March 31, 2017	
  - Panelist, Job Search Seminar, Institute for Mathematics and Its Applications	,	November 16-17, 2012
- - Association for Women in Mathematics (AWM) professional mentor for an early career woman mathematician,		May 20, 2008	
- - Association for Women in Mathematics (AWM) professional mentor for an early career woman mathematician,		May 20, 2007	
+ - Association for Women in Mathematics (AWM) professional mentor for an early career woman mathematician,		May , 2008	
+ - Association for Women in Mathematics (AWM) professional mentor for an early career woman mathematician,		May , 2007	
 
 ## Advocacy
  
