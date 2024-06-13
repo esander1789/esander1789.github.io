@@ -61,45 +61,45 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## Undergraduate Advisor
 
--	Sarah Wendt:	Spring 24,		MEGL Advisor with Dan Anderson 	
--	Mariah Tammera:	Spring 24,		MEGL Advisor with Dan Anderson		
--	Daniel Horvath:	Spring 24,		MEGL Advisor with Dan Anderson	
--	Max Werkheiser:	Spring 23-Spring 24,		MEGL Advisor with Dan Anderson 		
--	James Nguyen:	Fall 23,		MEGL Advisor with Dan Anderson			
--	Aiden Dunlop:	Fall 23,		MEGL Advisor with Dan Anderson		
--	Mark Brant:		Spring 23,		MEGL Advisor with Dan Anderson		
--	Gina Thomas:	Spring 23,		MEGL Advisor with Dan Anderson		
--	Gabriela Castaneda Guzman:	Spring 23,		MEGL Advisor with Dan Anderson	
--	James Nguyen:	Fall 23,		MEGL Advisor with Dan Anderson
--	Aiden Dunlop:	Fall 23,		MEGL Advisor with Dan Anderson
--	Josh Calvano:	Spring 22,		MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects"
--	Brandon Barreto-Rosa:	Spring 22,			MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects"	
--	Lujain Nsair:	Spring 22,		MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects"	
--	Micheal Belete:	18-19,			EXTREEMS Advisor with Thomas Wanner,	Outstanding Poster Prize, JMM19  "Stable annulus solution for the diblock copolymer equation”	
--	Andrew Hornstra: Summer 18,		EXTREEMS Advisor with Thomas Wanner,		
--	Arsah Rahman:	17-18,			EXTREEMS  and Makerlab Advisor, 						[Understanding the Behavior of Quasiperiodic Orbits](https://math.gmu.edu/~sander/studentpapers/arsahrahman051818.pdf)
--	Kathleen McLane: Spring 16,		MEGL Advisor			
--	Conor Nelson:	Spring 16,		MEGL Advisor					
--	Harout Boujakjian:	Spring 16,	MEGL Advisor				
--	James Trichilo:	15-16,			EXTREEMS Advisor with Thomas Wanner, 					
--	Nima Namazi:	13-14,			URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	[The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems](https://math.gmu.edu/~sander/studentpapers/nimanamazi0914.pdf)
--	Kalea Sebesta:	Summer 13,		REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	[Nucleation in a Two Component Metal Alloy](https://math.gmu.edu/~sander/studentpapers/kaleasabesta080213.pdf)
--	Ian Johnson:	10-11,			URCM and Senior Thesis Advisor with Thomas Wanner,  	[Numerical Continuation for a Diblock Copolymer Model in One Dimension](https://math.gmu.edu/~sander/studentpapers/ianjohnson2011.pdf)
--	Olga Stulov;	Summer 10,		REU	Advisor	with Thomas Wanner, SUNY-New Palz			[Stability of Equilibria in One Dimension for Diblock Copolymer Equation](https://math.gmu.edu/~sander/studentpapers/olgastulov.pdf)
--	James O'Beirne:	09-10,			URCM Advisor with Thomas Wanner	,	
--	Colleen Ackermann:	Summer 09,	REU	Advisor	with Thomas Wanner, Virginia Tech			[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf)
--	William Hardesty:	Summer 09,	REU	Advisor with Thomas Wanner,	UMBC					[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf)
--	John Price:		07-08,			URCM Advisor with Thomas Wanner, Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg)
--	Hanein Edrees:	07-08,			URCM Advisor with Thomas Wanner,  Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg)
--	Tyler White:	05-06,			Senior Thesis Advisor,									[A neurological model for shell pattern formation](https://www.notion.so)
--	Robert Allen:	02-03,			Senior Thesis Advisor,									[Turing Instabilities and Spatial Pattern Formation in One-Dimension](https://math.gmu.edu/~sander/studentpapers/robertallenthesis0803.pdf)
+-	Sarah Wendt:	MEGL Advisor with Dan Anderson,	Spring 2024
+-	Mariah Tammera:	MEGL Advisor with Dan Anderson, Spring 2024	
+-	Daniel Horvath:	MEGL Advisor with Dan Anderson, Spring 2024	
+-	Max Werkheiser:	MEGL Advisor with Dan Anderson, Spring 2023-Spring 2024	
+-	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023			
+-	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023		
+-	Mark Brant:		,		MEGL Advisor with Dan Anderson, Spring 2023		
+-	Gina Thomas:	,		MEGL Advisor with Dan Anderson, Spring 2023		
+-	Gabriela Castaneda Guzman:	,		MEGL Advisor with Dan Anderson, Spring 2023	
+-	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023
+-	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023
+-	Josh Calvano:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022
+-	Brandon Barreto-Rosa:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022				
+-	Lujain Nsair:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022	
+-	Micheal Belete:	 EXTREEMS Advisor with Thomas Wanner,	Outstanding Poster Prize, JMM19  "Stable annulus solution for the diblock copolymer equation”, 2018-19	
+-	Andrew Hornstra: EXTREEMS Advisor with Thomas Wanner,	Summer 2018		
+-	Arsah Rahman:	EXTREEMS  and Makerlab Advisor, 						[Understanding the Behavior of Quasiperiodic Orbits](https://math.gmu.edu/~sander/studentpapers/arsahrahman051818.pdf), 2017-18
+-	Kathleen McLane: MEGL Advisor, Spring 2016					
+-	Conor Nelson:	 MEGL Advisor, Spring 2016						
+-	Harout Boujakjian:	MEGL Advisor, Spring 2016					
+-	James Trichilo:	EXTREEMS Advisor with Thomas Wanner, 2015-16
+-	Nima Namazi:	URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	[The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems](https://math.gmu.edu/~sander/studentpapers/nimanamazi0914.pdf), 2013-14
+-	Kalea Sebesta:	REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	[Nucleation in a Two Component Metal Alloy](https://math.gmu.edu/~sander/studentpapers/kaleasabesta080213.pdf), Summer 2013
+-	Ian Johnson:	URCM and Senior Thesis Advisor with Thomas Wanner,  	[Numerical Continuation for a Diblock Copolymer Model in One Dimension](https://math.gmu.edu/~sander/studentpapers/ianjohnson2011.pdf), 2010-11
+-	Olga Stulov;	REU	Advisor	with Thomas Wanner, SUNY-New Palz			[Stability of Equilibria in One Dimension for Diblock Copolymer Equation](https://math.gmu.edu/~sander/studentpapers/olgastulov.pdf), Summer 2010
+-	James O'Beirne:	URCM Advisor with Thomas Wanner	,	2009-10
+-	Colleen Ackermann:	REU	Advisor	with Thomas Wanner, Virginia Tech			[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf), Summer 2009
+-	William Hardesty:	REU	Advisor with Thomas Wanner,	UMBC					[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf), Summer 2009
+-	John Price:		URCM Advisor with Thomas Wanner, Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg), 2007-08,			
+-	Hanein Edrees:	URCM Advisor with Thomas Wanner,  Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg), 2007-08			
+-	Tyler White:	Senior Thesis Advisor,	[A neurological model for shell pattern formation](https://www.notion.so), 2005-06
+-	Robert Allen:	Senior Thesis Advisor,	[Turing Instabilities and Spatial Pattern Formation in One-Dimension](https://math.gmu.edu/~sander/studentpapers/robertallenthesis0803.pdf), 2002-03
 
 
 ## Undergraduate Learning Assistant Supervisor
 
--   Max Werkheiser: 	Math 401,	Fall, 23
--	Michael Matthews:	Math 401,	Fall 23,		
--	Ryan Simmons:		Math 401,	Fall 22,		
+-   Max Werkheiser: 	Math 401,	Fall, 2023
+-	Michael Matthews:	Math 401,	Fall 2023		
+-	Ryan Simmons:		Math 401,	Fall 2022		
 -	Billy Battles:		Math 401,	Fall 2021		
 -	Taylor Fountain:	Math 401, 446,	Fall 2021		
 -	Swan Klein: 		Math 446,	Fall 2021		
@@ -107,7 +107,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Clarissa Benitez:	Math 401,	Fall 2021		
 -	Krista Matz:		Math 401,	Fall 2021		
 -	Catie Haggerty:		Math 446,	Spring 2021		
--	Chloe Ham:			Math 401, 213, 214,			Fall 2019-Spring 2020,			
+-	Chloe Ham:			Math 401, 213, 214,			Fall 2019-Spring 2020		
 -	Colin Chung:		Math 401, 213, 214, 401, 	Fall 2019-Fall 2020
 -	Julian Benali:		Math 214,	Fall 2018
 	
