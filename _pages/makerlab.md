@@ -10,8 +10,7 @@ permalink: /makerlab/
 
 The goal of the GMU Math Maker Lab is to use 3D printing technology to turn abstract mathematical concepts into concrete physical objects. Seeing and designing prints allows for better understanding and enthusiasm for mathematics!
 
-Activities include research, teaching, outreach, tutorial development, as detailed below. The lab is housed in a room within the math department on the 4th floor of Exploratory Hall on the George Mason Fairfax Campus. Activities are directed by Prof. Evelyn Sander with the aid of GMU graduate and undergraduate students. For more information see the [Makerlab Blog](http://gmumathmaker.blogspot.com/).
-
+Activities include research, teaching, outreach, tutorial development, as detailed below. The lab is housed in a room within the math department on the 4th floor of Exploratory Hall on the George Mason Fairfax Campus. Activities are directed by Prof. Evelyn Sander with the aid of GMU graduate and undergraduate students. 
 - [Current blog](https://mathmakerlab.gmu.edu)
 - [Former blog](http://gmumathmaker.blogspot.com)
 
