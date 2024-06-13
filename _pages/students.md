@@ -10,11 +10,11 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 ## PhD Advisor
 
 -	Patrick Bishop:		PhD Advisor, Math GMU,	Anticipated				
--	Sayomi Kamimoto:	PhD Advisor, Math GMU,	[Parameter-Dependent Dynamics of Spatio-Temporal Systems](https://math.gmu.edu/~sander/studentpapers/sayomikamimotothesis120220.pdf), December 2, 2020	
--	Vandana Saini:		PhD Advisor, Math GMU,	[Period-Doubling Cascades in One and Two Parameter Maps](https://math.gmu.edu/~sander/studentpapers/vandanasainithesis120320.pdf), December 2, 2020
--	Michael Crone:		PhD Advisor, Math GMU,	[Dynamics of Harvested Resources with Emphasis on Commercially Exploited Fisheries](https://math.gmu.edu/~sander/studentpapers/cronethesis010915.pdf), January 9, 2015
--	Robert Reznik:		PhD Advisor, CDS GMU,	[Electric Field Effects on Single and Small Networks of Neurons](https://math.gmu.edu/~sander/studentpapers/reznikthesis012016.pdf), 2016
--	Richard Tatum:		PhD Advisor, CDS GMU, 	[Analysis of a Reaction-Diffusion System With Local and Nonlocal Diffusion Terms](https://math.gmu.edu/~sander/studentpapers/tatumthesis071510.pdf), July 15, 2010
+-	Sayomi Kamimoto:	PhD Advisor, Math GMU,	[Parameter-Dependent Dynamics of Spatio-Temporal Systems](../files/studentpaper/sayomikamimotothesis120220.pdf), December 2, 2020	
+-	Vandana Saini:		PhD Advisor, Math GMU,	[Period-Doubling Cascades in One and Two Parameter Maps](../files/studentpaper/vandanasainithesis120320.pdf), December 2, 2020
+-	Michael Crone:		PhD Advisor, Math GMU,	[Dynamics of Harvested Resources with Emphasis on Commercially Exploited Fisheries](../files/studentpaper/cronethesis010915.pdf), January 9, 2015
+-	Robert Reznik:		PhD Advisor, CDS GMU,	[Electric Field Effects on Single and Small Networks of Neurons](../files/studentpaper/reznikthesis012016.pdf), 2016
+-	Richard Tatum:		PhD Advisor, CDS GMU, 	[Analysis of a Reaction-Diffusion System With Local and Nonlocal Diffusion Terms](../files/studentpaper/tatumthesis071510.pdf), July 15, 2010
 
 ## PhD Committee Member
 
@@ -40,7 +40,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## Masters Advisor
 
--	Anne Costolanski: 	Masters Advisor,	[Explosion Points in Skew Maps](https://math.gmu.edu/~sander/studentpapers/costolanskithesis072407.pdf), Jul 24, 2007	
+-	Anne Costolanski: 	Masters Advisor,	[Explosion Points in Skew Maps](../files/studentpaper/costolanskithesis072407.pdf), Jul 24, 2007	
 -	Vanessa Little:		Masters Advisor, July 1, 2011						
 -	Karen Crossin:		Masters Advisor, December 1, 2003					
 
@@ -77,22 +77,22 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Lujain Nsair:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022	
 -	Micheal Belete:	 EXTREEMS Advisor with Thomas Wanner,	Outstanding Poster Prize, JMM19  "Stable annulus solution for the diblock copolymer equation”, 2018-19	
 -	Andrew Hornstra: EXTREEMS Advisor with Thomas Wanner,	Summer 2018		
--	Arsah Rahman:	EXTREEMS  and Makerlab Advisor, 						[Understanding the Behavior of Quasiperiodic Orbits](https://math.gmu.edu/~sander/studentpapers/arsahrahman051818.pdf), 2017-18
+-	Arsah Rahman:	EXTREEMS  and Makerlab Advisor, 						[Understanding the Behavior of Quasiperiodic Orbits](../files/studentpaper/arsahrahman051818.pdf), 2017-18
 -	Kathleen McLane: MEGL Advisor, Spring 2016					
 -	Conor Nelson:	 MEGL Advisor, Spring 2016						
 -	Harout Boujakjian:	MEGL Advisor, Spring 2016					
 -	James Trichilo:	EXTREEMS Advisor with Thomas Wanner, 2015-16
--	Nima Namazi:	URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	[The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems](https://math.gmu.edu/~sander/studentpapers/nimanamazi0914.pdf), 2013-14
--	Kalea Sebesta:	REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	[Nucleation in a Two Component Metal Alloy](https://math.gmu.edu/~sander/studentpapers/kaleasabesta080213.pdf), Summer 2013
--	Ian Johnson:	URCM and Senior Thesis Advisor with Thomas Wanner,  	[Numerical Continuation for a Diblock Copolymer Model in One Dimension](https://math.gmu.edu/~sander/studentpapers/ianjohnson2011.pdf), 2010-11
--	Olga Stulov;	REU	Advisor	with Thomas Wanner, SUNY-New Palz			[Stability of Equilibria in One Dimension for Diblock Copolymer Equation](https://math.gmu.edu/~sander/studentpapers/olgastulov.pdf), Summer 2010
+-	Nima Namazi:	URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	[The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems](../files/studentpaper/nimanamazi0914.pdf), 2013-14
+-	Kalea Sebesta:	REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	[Nucleation in a Two Component Metal Alloy](../files/studentpaper/kaleasabesta080213.pdf), Summer 2013
+-	Ian Johnson:	URCM and Senior Thesis Advisor with Thomas Wanner,  	[Numerical Continuation for a Diblock Copolymer Model in One Dimension](../files/studentpaper/ianjohnson2011.pdf), 2010-11
+-	Olga Stulov;	REU	Advisor	with Thomas Wanner, SUNY-New Palz			[Stability of Equilibria in One Dimension for Diblock Copolymer Equation](../files/studentpaper/olgastulov.pdf), Summer 2010
 -	James O'Beirne:	URCM Advisor with Thomas Wanner	,	2009-10
--	Colleen Ackermann:	REU	Advisor	with Thomas Wanner, Virginia Tech			[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf), Summer 2009
--	William Hardesty:	REU	Advisor with Thomas Wanner,	UMBC					[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](https://math.gmu.edu/~sander/studentpapers/hardacktalk.pdf), and [Writeup](https://math.gmu.edu/~sander/studentpapers/hardestyackermann.pdf), Summer 2009
--	John Price:		URCM Advisor with Thomas Wanner, Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg), 2007-08,			
--	Hanein Edrees:	URCM Advisor with Thomas Wanner,  Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](https://math.gmu.edu/~sander/studentpapers/hanjohposter0708.jpg), 2007-08			
+-	Colleen Ackermann:	REU	Advisor	with Thomas Wanner, Virginia Tech			[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](../files/studentpaper/hardacktalk.pdf), and [Writeup](../files/studentpaper/hardestyackermann.pdf), Summer 2009
+-	William Hardesty:	REU	Advisor with Thomas Wanner,	UMBC					[Nucleation and Spinodal Decomposition in Multi-component Alloys (poster)](../files/studentpaper/hardacktalk.pdf), and [Writeup](../files/studentpaper/hardestyackermann.pdf), Summer 2009
+-	John Price:		URCM Advisor with Thomas Wanner, Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](../files/studentpaper/hanjohposter0708.jpg), 2007-08,			
+-	Hanein Edrees:	URCM Advisor with Thomas Wanner,  Poster, SIAM AN July, 2008.	[Phase Separation Dynamics in Multi-component Alloys](../files/studentpaper/hanjohposter0708.jpg), 2007-08			
 -	Tyler White:	Senior Thesis Advisor,	[A neurological model for shell pattern formation](https://www.notion.so), 2005-06
--	Robert Allen:	Senior Thesis Advisor,	[Turing Instabilities and Spatial Pattern Formation in One-Dimension](https://math.gmu.edu/~sander/studentpapers/robertallenthesis0803.pdf), 2002-03
+-	Robert Allen:	Senior Thesis Advisor,	[Turing Instabilities and Spatial Pattern Formation in One-Dimension](../files/studentpaper/robertallenthesis0803.pdf), 2002-03
 
 
 ## Undergraduate Learning Assistant Supervisor
