@@ -25,8 +25,8 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 - [Stability of Floating Objects at a Two-Fluid Interface](/publication/ABBCST24)
 - [Mathematics of Floating 3D Printed Objects](/publication/ABCNS23)
-- [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)
-- [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)
+- [Modeling Dynamical Systems for 3D Printing](/publication/LST20)
+- [The Best Writing on Mathematics 2021](/publication/LST22)
 - [Sublevel sets of spinodal decomposition for the Cahn-Hilliard equation, a nonlinear partial differential equation](http://gmumathmaker.blogspot.com/2015/01/spinodal-decomposition.html)
 - [Construction of self-similar tiling](http://gmumathmaker.blogspot.com/2015/10/tiling-plane.html)
 
