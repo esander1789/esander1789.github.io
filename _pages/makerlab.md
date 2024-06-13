@@ -21,16 +21,19 @@ Activities include research, teaching, outreach, tutorial development, as detail
 - [Math 493: Mathematics Through 3D Printing, Spring 2016](http://gmumathmaker.blogspot.com/2016/03/thingiverse-entries-for-math-493.html)
 - [Math 213: Multivariable Calculus, Spring 2015](http://gmumathmaker.blogspot.com/2015/05/calling-it-semester-on-multivariable.html)
 
-**Research**
+**Publications**
 
+- [Stability of Floating Objects at a Two-Fluid Interface](/publication/ABBCST24)
+- [Mathematics of Floating 3D Printed Objects](/publication/ABCNS23)
+- [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)
+- [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)
 - [Sublevel sets of spinodal decomposition for the Cahn-Hilliard equation, a nonlinear partial differential equation](http://gmumathmaker.blogspot.com/2015/01/spinodal-decomposition.html)
 - [Construction of self-similar tiling](http://gmumathmaker.blogspot.com/2015/10/tiling-plane.html)
 
 **Tutorials**
 
-- [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf), AMS Notices article
 - [Construct3D talk February 2020](../files/talks/construct3d2020.html)
-- [An overview of 3D printing and tutorials on how to begin.](https://../files/talks/an-introduction-to-3d-print.html)
+- [An overview of 3D printing and tutorials on how to begin.](../files/talks/an-introduction-to-3d-print.html)
 
 **Outreach**
 
@@ -45,9 +48,8 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 **Equipment**
 
-- Makerbot 5th Generation PLA printer
-- Makerbot 2X dual ABS printer
-- Lulzbot TAZ5 multi-material printer with dual extruder
+- Ultimaker S5
+- Ultimaker S7
 - Monoprice mini
 
 **Software**  
