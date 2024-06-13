@@ -53,7 +53,7 @@ permalink: /service/
  - Topological Methods for Applied Dynamics, Special Session, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (with Jim Yorke),		May 21-25, 2009
  - Applications of a geometric approach to chaotic dynamics, Special Session, AMS Central Sectional Meeting, Macalester College, St. Paul, MN, (with Judy Kennedy and Jim Yorke),		April 2- 3, 2009
  - Applied Dynamical Systems Minisymposium, SIAM Annual Meeting, San Diego, CA,		July 2- 4, 2008
- - http://math.gmu.edu/~sander/csumsworkshop/, George Mason, Fairfax, VA (with Sarah Day),		April 20-21, 2008
+ - CSUMS Workshop, George Mason, Fairfax, VA (with Sarah Day),		April 20-21, 2008
  - Applied Topological Dynamics Special Session, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT, May, 2007 (with Judy Kennedy)		May 21- 25, 2007
 
 ## Department Service 

@@ -1,0 +1,82 @@
+<html> <head>
+<title>One-Dimensional Iteration</title>
+</head>
+
+<body>
+
+<h1>One-Dimensional Iteration</h1>
+
+<h3>The Quadratic Map</h3>
+
+
+Here is a one-dimensional quadratic parametrized curve x^2+c. When you
+click on any point in the graph window, you see the graphical iterates
+of that x value. The righthand scrollbar changes the parameter. Below
+the picture is an explanation.
+
+<p>
+
+<title>Quadratic Map</title>
+<hr>
+<applet code=Iterate.class width=400 height=400>
+<param name="coeff" value= 0>
+</applet>
+<hr>
+
+
+<h3>About Graphical Iteration</h3>
+
+Given a point x, f(x) is its iterate under function f. The dynamics of
+f is understanding what happens to points after successive iterates.
+Graphical iteration is a visual technique to see where points go under
+iteraton. Above you see a graph of your function y=f(x) and a graph of the
+identity function y=i(x). When you choose a value z to iterate, the
+program draws a vertical line to first iterate, (z,f(z)). Then it
+draws a horizantal line to the point (f(z),f(z)) on the graph of the
+identity function. This allows a second iteration, because drawing a
+vertical line from here to the graph of f gives the point (f(z),
+f(f(z))), the second iterate. Repeating this process gives all the
+iterates of z.
+
+<p>
+
+<h3>What to look for</h3>
+
+Notice that there is an attracting fixed point at c=0. As c decreases,
+the fixed point ceases to be attracting and a period two orbit
+forms. This is called a period doubling bifurcation. Move the scroll
+bar to see this bifurcation occur. As c decreases further, the period
+two orbit ceases to attract and there is an attracting period four
+orbit. This process continues, with each period 2^n orbit ceasing to
+attract exactly when a period 2^(n+1) orbit forms.  This is called a
+<i>period doubling cascade</i>. Finally, there are points of all
+periods. Around c=-1.92, there is chaos.
+
+<h3>Acknowledgements</h3>
+This was written with the help of <a href =
+"http://www.geom.umn.edu/~daeron/apps/ui/pack/gui.html">Packer
+Layout</a> by <a href = "http://www.geom.umn.edu/~daeron/">Daeron Meyer</a>.
+
+
+<hr>
+
+<a href = "http://www.geom.umn.edu/~sander/apps/">Up: Evelyn's
+Applets</a>
+
+<p>
+
+<address><a href="http://www.geom.umn.edu/~sander/welcome.html">Evelyn
+Sander&lt;sander@geom.umn.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Thu Feb 15 16:24:15 1996
+<!-- hhmts end -->
+</body> </html>
+
+
+
+
+
+
+
+
+
