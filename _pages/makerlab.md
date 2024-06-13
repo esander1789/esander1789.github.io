@@ -26,8 +26,6 @@ Activities include research, teaching, outreach, tutorial development, as detail
 - [Mathematics of Floating 3D Printed Objects](/publication/ABCNS23)
 - [Modeling Dynamical Systems for 3D Printing](/publication/LST20)
 - [The Best Writing on Mathematics 2021](/publication/LST22)
-- [Sublevel sets of spinodal decomposition for the Cahn-Hilliard equation, a nonlinear partial differential equation](http://gmumathmaker.blogspot.com/2015/01/spinodal-decomposition.html)
-- [Construction of self-similar tiling](http://gmumathmaker.blogspot.com/2015/10/tiling-plane.html)
 
 **Talks**
 
@@ -35,6 +33,11 @@ Activities include research, teaching, outreach, tutorial development, as detail
 - [An overview of 3D printing and tutorials on how to begin.](../files/talks/an-introduction-to-3d-print.html)
 - [Speed dating event](../files/talks/speeddating/3DTalkSander102716.pdf), Active Learning Seminar, GMU, October 27, 2016. [Infographic](http://math.gmu.edu/~sander/talks/speeddating/infographic-sander.pdf)
 - [Technology and Innovations Conference September 2015](../files/talks/an-introduction-to-3d-print.html)
+
+**Other Mathematical Visualization**
+
+- [Sublevel sets of spinodal decomposition for the Cahn-Hilliard equation, a nonlinear partial differential equation](http://gmumathmaker.blogspot.com/2015/01/spinodal-decomposition.html)
+- [Construction of self-similar tiling](http://gmumathmaker.blogspot.com/2015/10/tiling-plane.html)
 
 **Outreach**
 
