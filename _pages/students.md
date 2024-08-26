@@ -36,7 +36,8 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Ratna Khatri:	Learning Assistant Math 401 and Makerlab, 2016-17			
 -	Hannah Klawa:	Learning Assistant Math 675, Fall 2020		
 -	Patrick O'Neal:	Makerlab, 2016-2023
--	Julia Seay: 	Makerlab, 2023-Present					
+-	Julia Seay: 	Makerlab, 2023-2024					
+-	Summer Chenoweth: 	Makerlab, 2024-Present					
 
 ## Masters Advisor
 
@@ -97,6 +98,8 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## Undergraduate Learning Assistant Supervisor
 
+-   Eric Zipor: 		Math 401,	Fall, 2024
+-   Minh Phan: 			Math 401,	Fall, 2024
 -   Max Werkheiser: 	Math 401,	Fall, 2023
 -	Michael Matthews:	Math 401,	Fall 2023		
 -	Ryan Simmons:		Math 401,	Fall 2022		
