@@ -1,0 +1,11 @@
+---
+permalink:  /publication/SM24b
+
+date: 2024-09-12
+author:  "Evelyn Sander and James D. Meiss"
+venue:  "Submitted"
+title:  "Computing Lyapunov Exponents using Weighted Birkhoff Averages"
+collection: publications
+citation: "submitted"
+
+---
