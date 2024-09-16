@@ -6,7 +6,7 @@ author:  "Evelyn Sander and James D. Meiss"
 venue:  "Submitted"
 title:  "Computing Lyapunov Exponents using Weighted Birkhoff Averages"
 collection: publications
-slidesurl: https://arxiv.org/abs/2409.08496
+paperurl2:  https://arxiv.org/abs/2409.08496
 citation: "submitted"
 
 ---

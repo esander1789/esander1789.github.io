@@ -52,7 +52,7 @@ layout: default
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
         {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.slidesurl }}">Download Test 1</a></p>
+          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.slidesurl }}">arXiv</a></p>
         {% elsif page.citation %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% elsif page.slidesurl %}
