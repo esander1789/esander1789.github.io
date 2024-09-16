@@ -51,9 +51,11 @@ layout: default
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Journal Link | <a href="{{ page.paperurl2 }}">Second Link</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper | <a href="{{ page.slidesurl }}">Journal Link </a></p>
+        {% elsif page.citation and page.paperurl and page.paperurl2 %}
+          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper | <a href="{{ page.paperurl2 }}">Journal Link </a></p>
         {% elsif page.citation and page.slidesurl %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.slidesurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl2 %}
+        {% elsif page.citation and page.paperurl2 %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl2 }}">arXiv</a></p>
         {% elsif page.citation %}
           <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.</p>
