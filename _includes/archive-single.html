@@ -51,25 +51,19 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-
-
-        {% if page.citation and page.paperurl and page.paperurl2 and page.slidesurl %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Journal Link | <a href="{{ page.paperurl2 }}">Second Link</a></p>
-        {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper | <a href="{{ page.slidesurl }}">Journal Link </a></p>
-        {% elsif page.citation and page.paperurl and page.paperurl2 %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl }}">Download Paper | <a href="{{ page.paperurl2 }}">Journal Link </a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.slidesurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.paperurl2 %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ page.paperurl2 }}">arXiv</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Citation: {{ page.author }}, {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.citation }},  {{ page.date | default: "1900-01-01" | date: "%Y" }}.</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Test 3</a></p>
-        {% endif %}
-
-
+    
+    {% if post.citation and post.paperurl and post.slidesurl %}
+      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Journal Link</a></p>
+    {% elsif post.citation and post.paperurl %}
+      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    {% elsif post.citation and post.slidesurl %}
+      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.slidesurl }}">Journal Link</a></p>
+    {% elsif post.citation %}
+      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
+    {% elsif post.paperurl %}
+      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+    {% elsif post.slidesurl %}
+      <p>Download <a href="{{ post.slidesurl }}">Download Test 5</a></p></p>
     {% endif %}
 
   </article>
