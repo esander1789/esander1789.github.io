@@ -52,19 +52,26 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Journal Link</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    {% if post.citation and post.paperurl and post.slidesurl and post.paperarxiv and post.paperurl2 %}
+    	<p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Journal Link</a> | <a href="{{ post.paperurl2 }}">Alternate link</a> | <a href="{{ post.paperarxiv }}">arXiv</a></p>
+    {% elsif post.citation and post.paperurl and post.slidesurl and post.paperarxiv %}
+    	<p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Journal Link</a> | <a href="{{ post.paperarxiv }}">arXiv</a></p>
+    {% elsif post.citation and post.slidesurl and post.paperurl %}
+    	<p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a>| <a href="{{ post.slidesurl }}">Journal Link</a> </p>
     {% elsif post.citation and post.slidesurl %}
-      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.slidesurl }}">Journal Link</a></p>
+          <p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.slidesurl }}">Download Paper</a></p>
+    {% elsif post.citation and post.paperarxiv %}
+          <p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.slidesurl }}">arXiv</a></p>
+    {% elsif post.citation and post.paperurl %}
+          <p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    {% elsif post.citation and post.paperurl2 %}
+          <p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.<br /><a href="{{ post.paperurl2 }}">Link to Journal</a></p>
     {% elsif post.citation %}
-      <p>Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+          <p style="font-size: smaller">Citation: {{ post.author }}, {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
     {% elsif post.slidesurl %}
-      <p>Download <a href="{{ post.slidesurl }}">Download Test 5</a></p></p>
-    {% endif %}
+          <p style="font-size: smaller"><a href="{{ post.slidesurl }}">Download Test 3</a></p>
+     {% endif %}
+
 
   </article>
 </div>
