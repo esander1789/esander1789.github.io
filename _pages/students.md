@@ -18,6 +18,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Committee Member
 
+-   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
 -	Joseph Franks:		Current,						Advisor: Carlos Rautenberg		
 -	Don Brusaferro:		Current,						Advisor: Carlos Rautenberg		
 -	Jackson Williams:	Current,						Advisor: Matt Holzer		

@@ -19,6 +19,7 @@ Research
 My current research is primarily in the fields of dynamical systems and mathematical visualization and design. Recent research includes
 
 - Study of quasiperiodicity and chaos
+- Computational methods for studying dynamics
 - Rigorous computation of bifurcations
 - Phase field models in materials science
 - 3D printing of mathematical objects
