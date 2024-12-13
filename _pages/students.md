@@ -9,7 +9,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Advisor
 
--	Patrick Bishop:		PhD Advisor, Math GMU,	Anticipated				
+-	Patrick Bishop:		PhD Advisor, Math GMU,	[Computation of Dynamical Structures for Dynamical Billiards and Parameter Drift Equations](../files/studentpapers/PatrickBishopThesis112624.pdf) November 26, 2024				
 -	Sayomi Kamimoto:	PhD Advisor, Math GMU,	[Parameter-Dependent Dynamics of Spatio-Temporal Systems](../files/studentpapers/sayomikamimotothesis120220.pdf), December 2, 2020	
 -	Vandana Saini:		PhD Advisor, Math GMU,	[Period-Doubling Cascades in One and Two Parameter Maps](../files/studentpapers/vandanasainithesis120320.pdf), December 2, 2020
 -	Michael Crone:		PhD Advisor, Math GMU,	[Dynamics of Harvested Resources with Emphasis on Commercially Exploited Fisheries](../files/studentpapers/cronethesis010915.pdf), January 9, 2015
@@ -18,6 +18,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Committee Member
 
+-   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
 -	Joseph Franks:		Current,						Advisor: Carlos Rautenberg		
 -	Don Brusaferro:		Current,						Advisor: Carlos Rautenberg		
