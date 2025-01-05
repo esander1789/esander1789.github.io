@@ -16,9 +16,9 @@ permalink: /service/
  
 ## Professional Positions
  
- - SIAM Council Representative to the Board,			 2023 -		 2025
- - SIAM Committee on Strategic Intiatives,			 2023	 -	 2024
- - Member of the SIAM Council,			 2022	 -	 2024
+ - Member of the SIAM Council,			 First term: 2022	 -	 2024, Second term: 2025 - 2027
+ - SIAM Committee on Strategic Intiatives,			 2023	 -	 2025
+ - SIAM Council Representative to the Board,			 2023 -		 2024
  - Chair of J. D. Crawford Prize Selection Committee,			Spring 2019 
  - Program Director, SIAM activity group on dynamical systems,			2016 
  - SIAM Dynamical Systems Activity Group Liason to SIAM News,			2008 -		2016
