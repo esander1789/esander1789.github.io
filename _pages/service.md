@@ -60,7 +60,8 @@ permalink: /service/
 ## Department Service 
 
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
- - GMU Graduate Committee,			2000	 -	 2010, 2022	 -	Present
+ - GMU Math Policy and Hiring Committee, 2024 - Present
+ - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
  - Curator of the Mathematical Sciences art exhibit, Exploratory Hall display case,			 2014 -		 present
  - Preliminary Exam Committee: Algebra, Linear Analysis, Numerical Analysis, Ordinary Differential Equations,			 2006- present
  - Teaching peer review,			April, 2022
