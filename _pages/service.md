@@ -17,7 +17,7 @@ permalink: /service/
 ## Professional Positions
  
  - Member of the SIAM Council,			 First term: 2022	 -	 2024, Second term: 2025 - 2027
- - SIAM Committee on Strategic Intiatives,			 2023	 -	 2025
+ - SIAM Committee on Strategic Intiatives,			 2023	 -	 Present
  - SIAM Council Representative to the Board,			 2023 -		 2024
  - Chair of J. D. Crawford Prize Selection Committee,			Spring 2019 
  - Program Director, SIAM activity group on dynamical systems,			2016 
@@ -59,6 +59,7 @@ permalink: /service/
 
 ## Department Service 
 
+ - Policy and Hiring Committee, GMU Dept of Math. Sciences,		August  2024 -		Present
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
  - GMU Math Policy and Hiring Committee, 2024 - Present
  - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
@@ -118,7 +119,8 @@ permalink: /service/
  - Association for Women in Mathematics (AWM) professional mentor for an early career woman mathematician,		May , 2007	
 
 ## Advocacy
- 
+
+ - Capitol Hill Advocacy Visit, Association for Women in Mathematics,		April 9, 2025 
  - Capitol Hill Advocacy Visit, Association for Women in Mathematics,		January 4, 2019
  - Capitol Hill Advocacy Visit, Association for Women in Mathematics,		May 1, 2018	
  - Capitol Hill Advocacy Visit, Association for Women in Mathematics,		December 1, 2017	
