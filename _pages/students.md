@@ -60,34 +60,33 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Elan Rodan:			Advisor: Thomas Wanner, 2008
 -	Lihong Han:			Advisor: Dan Anderson, 2006					
 -	Jennifer Attanasi:	Advisor: Thomas Wanner, UMBC, 2001
-
--	Will Howard:	MEGL Advisor with Dan Anderson, Makerlab,	"Stability of Floating Objects", Spring 2022
--	Frank Pryor: 	MEGL Advisor with Thomas Wanner, "Predicting Flood Zones Using Topological Data Analysis", Spring 2025
+-	Will Howard:	MEGL Advisor with Dan Anderson, Makerlab, Spring 2022,	"Stability of Floating Objects"
+-	Frank Pryor: 	MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
 
 ## Undergraduate Advisor
 
--	Marty Roger: 	MEGL Advisor with Tom Wanner, Spring 2025
--   Kyle Hess: 		MEGL Advisor with Tom Wanner, Spring 2025
--	Sarah Wendt:	MEGL Advisor with Dan Anderson,	Spring 2024
--	Mariah Tammera:	MEGL Advisor with Dan Anderson, Spring 2024	
--	Daniel Horvath:	MEGL Advisor with Dan Anderson, Spring 2024	
--	Max Werkheiser:	MEGL Advisor with Dan Anderson, Spring 2023-Spring 2024	
--	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023			
--	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023		
--	Mark Brant:		,		MEGL Advisor with Dan Anderson, Spring 2023		
--	Gina Thomas:	,		MEGL Advisor with Dan Anderson, Spring 2023		
--	Gabriela Castaneda Guzman:	,		MEGL Advisor with Dan Anderson, Spring 2023	
--	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023
--	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023
+-	Marty Roger: 	MEGL Advisor with Tom Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
+-   Kyle Hess: 		MEGL Advisor with Tom Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
+-	Sarah Wendt:	MEGL Advisor with Dan Anderson,	Spring 2024, "Biological Locomotion via Surface Tension"
+-	Mariah Tammera:	MEGL Advisor with Dan Anderson, Spring 2024, "Biological Locomotion via Surface Tension"	
+-	Daniel Horvath:	MEGL Advisor with Dan Anderson, Spring 2024, "Biological Locomotion via Surface Tension"	
+-	Max Werkheiser:	MEGL Advisor with Dan Anderson, Spring 2023-Spring 2024, "Biological Locomotion via Surface Tension"	
+-	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"			
+-	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"		
+-	Mark Brant:		,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
+-	Gina Thomas:	,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
+-	Gabriela Castaneda Guzman:	,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"	
+-	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"
+-	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"
 -	Josh Calvano:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022
 -	Brandon Barreto-Rosa:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022				
 -	Lujain Nsair:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022	
 -	Micheal Belete:	 EXTREEMS Advisor with Thomas Wanner,	Outstanding Poster Prize, JMM19  "Stable annulus solution for the diblock copolymer equation”, 2018-19	
--	Andrew Hornstra: EXTREEMS Advisor with Thomas Wanner,	Summer 2018		
+-	Andrew Hornstra: EXTREEMS Advisor with Thomas Wanner,	Summer 2018, "Diblock-copolymer equations"	
 -	Arsah Rahman:	EXTREEMS  and Makerlab Advisor, 						[Understanding the Behavior of Quasiperiodic Orbits](../files/studentpapers/arsahrahman051818.pdf), 2017-18
--	Kathleen McLane: MEGL Advisor, Spring 2016					
--	Conor Nelson:	 MEGL Advisor, Spring 2016						
--	Harout Boujakjian:	MEGL Advisor, Spring 2016					
+-	Kathleen McLane: MEGL Advisor, Spring 2016, "Allen-Cahn Equation"			
+-	Conor Nelson:	 MEGL Advisor, Spring 2016, "Allen-Cahn Equation"						
+-	Harout Boujakjian:	MEGL Advisor, Spring 2016, "Allen-Cahn Equation"					
 -	James Trichilo:	EXTREEMS Advisor with Thomas Wanner, 2015-16
 -	Nima Namazi:	URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	[The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems](../files/studentpapers/nimanamazi0914.pdf), 2013-14
 -	Kalea Sebesta:	REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	[Nucleation in a Two Component Metal Alloy](../files/studentpapers/kaleasabesta080213.pdf), Summer 2013
@@ -120,4 +119,3 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Colin Chung:		Math 401, 213, 214, 401, 	Fall 2019-Fall 2020
 -	Julian Benali:		Math 214,	Fall 2018
 	
-
