@@ -59,7 +59,6 @@ permalink: /service/
 
 ## Department Service 
 
- - Policy and Hiring Committee, GMU Dept of Math. Sciences,		August  2024 -		Present
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
  - GMU Math Policy and Hiring Committee, 2024 - Present
  - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
