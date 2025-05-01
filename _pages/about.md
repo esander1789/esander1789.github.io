@@ -18,7 +18,8 @@ Teaching
 - In July 2025 I will be teaching an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
 with Jonathan Jaquette. 
 - [Teaching](https://esander1789.github.io/teaching/)
-- [Students](https://esander1789.github.io/students/) who I have worked with, including theses
+- [Students](https://esander1789.github.io/students/) 
+- I have advised vertically integrated graduate-undergraduate research projects at [MEGL](https://megl.science.gmu.edu), most recently ["Predicting Flood Zones Using Topological Data Analysis"](https://megl.science.gmu.edu/spring-2025/). 
 
 Research
 ======
