@@ -19,9 +19,9 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Committee Member
 
+-	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
--	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -	Frank Pryor: 		Current, 						Advisor: Thomas Wanner
 -	Joseph Franks:		Current,						Advisor: Carlos Rautenberg		
 -	Don Brusaferro:		Current,						Advisor: Carlos Rautenberg		
