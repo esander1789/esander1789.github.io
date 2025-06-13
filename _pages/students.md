@@ -19,6 +19,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Committee Member
 
+-   Maxime Payan:       Ecole Polytechnique Paris, Current, as Reviewer. Advisor: Maxime Breden
 -	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
@@ -31,7 +32,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Justin Thorpe:		Current,						Advisor: Thomas Wanner		
 -	Peter Rizzi:		Advisor: Thomas Wanner, June 1, 2022								
 -	Guy Djokam:			UMBC, Advisor: Muruhan Rathinam, November 2, 2021		
--	Elena Queirolo:		Vrije Universiteit Amsterdam,	Reader,	Advisor: Jan Bouwe van den Berg, April 20, 2019
+-	Elena Queirolo:		Vrije Universiteit Amsterdam,	as Reader.	Advisor: Jan Bouwe van den Berg, April 20, 2019
 -	Scott Watson:		Physics GMU,			Advisor: Paul So, April 19, 2018
 -	Serap Tay-Stamoula: UMBC,					Advisor: Muruhan Rathinam, 	June 17, 2016	
 -	Yeyao Hu:			George Washington Univ. Advisor: Xiaofeng Ren, April 1, 2016		
