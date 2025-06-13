@@ -20,6 +20,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 ## PhD Committee Member
 
 -   Maxime Payan:       Ecole Polytechnique Paris, Current, as Reviewer. Advisor: Maxime Breden
+-	Toni Smith:			Howard University, Current, 	Advisor: Sayomi Kamimoto
 -	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
