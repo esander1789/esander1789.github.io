@@ -1,7 +1,7 @@
 ---
 permalink:  /publication/SM25b
 
-date: 2025-01-06
+date: 2025-08-12
 author:  "Evelyn Sander and James D. Meiss"
 venue:  "Journal of Physics A: Mathematical and Theoretical"
 title:  "Computing Lyapunov Exponents using Weighted Birkhoff Averages"
