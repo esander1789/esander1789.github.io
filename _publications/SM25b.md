@@ -9,6 +9,6 @@ paperurl:  ../files/SM25b.pdf
 collection: publications
 paperarxiv:  https://arxiv.org/abs/2409.08496
 slidesurl: https://doi.org/10.1088/1751-8121/adfac1
-citation: " 58(2025):355701"
+citation: "58(2025):355701"
 
 ---
