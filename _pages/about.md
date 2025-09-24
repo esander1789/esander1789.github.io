@@ -15,8 +15,9 @@ Fairfax, Virginia
 Teaching 
 ======
 
-- In July 2025 I will be teaching an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
+- In July 2025 I taught an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
 with Jonathan Jaquette. 
+- Fall 2025, I am teaching Mathematics Through 3D Printing, a course I have developed.
 - [Teaching](https://esander1789.github.io/teaching/)
 - [Students](https://esander1789.github.io/students/) 
 - I have advised vertically integrated graduate-undergraduate research projects at [MEGL](https://megl.science.gmu.edu), most recently ["Predicting Flood Zones Using Topological Data Analysis"](https://megl.science.gmu.edu/spring-2025/). 
@@ -30,6 +31,9 @@ My current research is primarily in the fields of dynamical systems and mathemat
 - Rigorous computation of bifurcations
 - Phase field models in materials science
 - 3D printing of mathematical objects
+
+I have an upcoming paper on 3D Printing Invariant Manifolds
+in the AMS Notices, to appear early 2026. 
 
 For more details, see my [Publications](https://esander1789.github.io/publications/)
 and [Talks](https://esander1789.github.io/talks/).

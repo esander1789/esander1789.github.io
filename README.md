@@ -9,8 +9,10 @@ Fairfax, Virginia
 
 # Teaching 
 
-In July 2025 I will be teaching an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
+In July 2025 I taught an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
 with Jonathan Jaquette. 
+
+Fall 2025 I am teaching Mathematics Through 3D Printing, a course I have developed. 
 
 # Research
 
