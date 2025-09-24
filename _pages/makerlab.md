@@ -22,6 +22,7 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 **Publications**
 
+- [3D Printing of Invariant Manifolds in Dynamical Systems](/publication/BCFOSS26)
 - [Stability of Floating Objects at a Two-Fluid Interface](/publication/ABBCST24)
 - [Mathematics of Floating 3D Printed Objects](/publication/ABCNS23)
 - [Modeling Dynamical Systems for 3D Printing](/publication/LST20)

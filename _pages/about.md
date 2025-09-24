@@ -32,7 +32,8 @@ My current research is primarily in the fields of dynamical systems and mathemat
 - Phase field models in materials science
 - 3D printing of mathematical objects
 
-I have an upcoming paper on 3D Printing Invariant Manifolds
+Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva,
+ Julia Seay, and I have an upcoming paper on 3D Printing Invariant Manifolds
 in the AMS Notices, to appear early 2026. 
 
 For more details, see my [Publications](https://esander1789.github.io/publications/)
