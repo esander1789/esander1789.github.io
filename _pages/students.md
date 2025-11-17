@@ -44,7 +44,8 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Hannah Klawa:	Learning Assistant Math 675, Fall 2020		
 -	Patrick O'Neal:	Makerlab, 2016-2023
 -	Julia Seay: 	Makerlab, 2023-2024					
--	Summer Chenoweth: 	Makerlab, 2024-Present					
+-	Summer Chenoweth: 	Makerlab, 2024-2025
+-   Nicole Savir: Makerlab, 2025-present					
 
 ## Masters Advisor
 
