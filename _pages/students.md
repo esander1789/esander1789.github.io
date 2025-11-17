@@ -19,18 +19,18 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## PhD Committee Member
 
--   Maxime Payan:       Ecole Polytechnique Paris, Current, as Reviewer. Advisor: Maxime Breden
 -	Toni Smith:			Howard University, Current, 	Advisor: Sayomi Kamimoto
--	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
+-	Thunyapong Mahapol:	Physics GMU, Current,			Advisor: Peter Becker		
 -	Frank Pryor: 		Current, 						Advisor: Thomas Wanner
+-	Justin Thorpe:		Current,						Advisor: Thomas Wanner		
 -	Joseph Franks:		Current,						Advisor: Carlos Rautenberg		
 -	Don Brusaferro:		Current,						Advisor: Carlos Rautenberg		
 -	Jackson Williams:	Current,						Advisor: Matt Holzer		
+-	Julia Seay: 		Current, 						Advisor: Matt Holzer
 -	Jessica Masterson:	Current,						Advisor: Dan Anderson		
--	Thunyapong Mahapol:	Physics GMU, Current,			Advisor: Peter Becker		
--	Justin Thorpe:		Current,						Advisor: Thomas Wanner		
+-   Maxime Payan:       Ecole Polytechnique Paris, Reviewer  Advisor: Maxime Breden, November 4,2025
 -	Peter Rizzi:		Advisor: Thomas Wanner, June 1, 2022								
 -	Guy Djokam:			UMBC, Advisor: Muruhan Rathinam, November 2, 2021		
 -	Elena Queirolo:		Vrije Universiteit Amsterdam,	as Reader.	Advisor: Jan Bouwe van den Berg, April 20, 2019

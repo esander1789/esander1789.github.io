@@ -8,17 +8,18 @@ permalink: /service/
 ## Editorial Positions
   
  - Associate editor, SIAM Journal on Applied Dynamical Systems	,		2010 - Present
- - Editor in Chief, SIAM Journal on Applied Dynamical Systems,		2018 -2023
- - Section Chief Editor, Research Spotlights Section, SIAM Review,			2014	- 2017
+ - Editor in Chief, SIAM Journal on Applied Dynamical Systems,		1/1/2018 -12/31/2023
+ - Section Chief Editor, Research Spotlights Section, SIAM Review,			1/1/2014	- 12/31/2017
  - Associate editor, Research Spotlights Section of the SIAM Review	,		 2012 -		 2014
  - Editor-in-Chief, DSWeb Magazine	,		 2008	 -	 2010
  - Section Chief Editor, Tutorials, DSWeb,			 2004	 -	 2010
  
 ## Professional Positions
  
- - Member of the SIAM Council,			 First term: 2022	 -	 2024, Second term: 2025 - 2027
- - SIAM Committee on Strategic Intiatives,			 2023	 -	 Present
- - SIAM Council Representative to the Board,			 2023 -		 2024
+ - Member of the SIAM Journal Committee, 1/1/2026-12/31/2028
+ - Member of the SIAM Council,			 First term: 1/1/2022	 -	 2024, Second term: 2025 - 12/31/2027
+ - SIAM Committee on Strategic Intiatives,			 1/1/2023	 -	 12/31/2025
+ - SIAM Council Representative to the Board,			 1/1/2023 -		 12/31/2024
  - Chair of J. D. Crawford Prize Selection Committee,			Spring 2019 
  - Program Director, SIAM activity group on dynamical systems,			2016 
  - SIAM Dynamical Systems Activity Group Liason to SIAM News,			2008 -		2016
@@ -60,31 +61,26 @@ permalink: /service/
 ## Department Service 
 
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
- - GMU Math Policy and Hiring Committee, 2024 - Present
+ - GMU Math Policy and Hiring Committee,  2006 - 2008, 2012 - 2014, 2024 - Present
  - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
  - Curator of the Mathematical Sciences art exhibit, Exploratory Hall display case,			 2014 -		 present
  - Preliminary Exam Committee: Algebra, Linear Analysis, Numerical Analysis, Ordinary Differential Equations,			 2006- present
- - Teaching peer review,			April, 2022
+ - Teaching peer reviews,			Every semester
+ - Teaching letter for 3 year review, January, 2025			
+ - Chair of hiring committee (3 tenure track positions),		2020 -	2021
  - Hiring committee,	 		2021 - 2022
+ - Chair of hiring committee,			 2013	 -	 2014		  
  - Recruitment and retention of minority graduate students,			2020 -	2021
- - Chair hiring committee (3 tenure track positions),		2020 -	2021
- - Teaching peer reviews,	 		 2021	
  - Course coordinator Math 213 (Spring),			Spring 2020
  - Network Science Cluster Hire committee,			Spring 2020
  - Course coordinator Math 214 (Spring and Fall),			2019
  - Joint Organizer, Mathematics and Climate Seminar,			Spring 2019
- - Joint Director of the EXTREEMS Undergraduate Research Program,			2017 - 2018
- - Teaching peer reviews,	 		Spring 2017	 
- - Teaching peer reviews,	 		Spring 2015	 
- - Chair of hiring committee,			 2013	 -	 2014
- - Department Policy and Hiring Committee,			 2012 -	 2014
- - Teaching peer reviews,	 		Spring 2013	 
+ - Joint Director of the EXTREEMS Undergraduate Research Program,			2017 - 2018 
  - GMU Math Club Faculty Advisor,			2011	- 2012
  - Joint organizer, Applied and Computational Math Seminar,			 2007	 -	 2012
  - Director of the Undergraduate Research in Computational Math (NSF-sponsored CSUMS) program,			 2011 -	2012
  - Adhoc (elected) member of the COS P&T Committee,			 2010 -	 2011			 
  - GMU scheduling of math graduate courses,		2006 -	2008
- - Policy and Hiring Committee,			 2006 -	 2008
  - GMU Summer Research Proposal Review,		Spring	 2006 
  - Search Committee, Neuroscience/Biophysics Postdoc, Center for Neural Dynamics,		Spring 2007	
  - Exploratory committee for a George Mason University Ph.D. in Mathematical Sciences,			Spring/Summer 2003
