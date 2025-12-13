@@ -1,6 +1,6 @@
 ---
 title: "GMU Math Makerlab"
-author_profile: true
+author_profile: false
 layout: archive
 permalink: /makerlab/
 ---
