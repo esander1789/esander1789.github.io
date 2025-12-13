@@ -39,6 +39,7 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 - [Sublevel sets of spinodal decomposition for the Cahn-Hilliard equation, a nonlinear partial differential equation](http://gmumathmaker.blogspot.com/2015/01/spinodal-decomposition.html)
 - [Construction of self-similar tiling](http://gmumathmaker.blogspot.com/2015/10/tiling-plane.html)
+- [Turtles all the way down, art exhibition piece, by Makerlab member Nicole Savir](https://science.gmu.edu/news/turtles-all-way-down)
 
 **Outreach**
 
