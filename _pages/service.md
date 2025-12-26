@@ -39,7 +39,8 @@ permalink: /service/
  
 ## Conferences
 
- - Organizer for "Computer Assisted Proofs in Applied Mathematics," SLMath Summer Graduate School, Berkeley CA, July 7 - July 18, 2025
+ - Geometric and Computational Methods for Studying Tipping Phenomena in Nature, SIAM Annual Meeting, Montreal Canada (with Sayomi Kamimoto), July 28-August 1, 2025
+ - Organizer for "Computer Assisted Proofs in Applied Mathematics," SLMath Summer Graduate School, Berkeley CA (with Jonathan Jaquette), July 7 - July 18, 2025
  - Organizing Committee for "Computer Assisted Proof in Nonlinear Analysis," Centre de Recherches Mathématiques, Montreal,		September 9- 13, 2024
  - Tori and Chaos in Near-Hamiltonian Dynamics with Applications, SIAM Conference on Applied Dynamical Systems, Portland, OR  (with Jim Meiss and Dan Scheeres),		May 14- 15, 2023
  - Advances in Nonlinear Dynamics Minisymposium, ICIAM, Tokyo Japan (with Jay Mireles James),		August 20- 25, 2023
