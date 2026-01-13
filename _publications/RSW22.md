@@ -8,7 +8,7 @@ paperarxiv:  https://arxiv.org/abs/2203.10340
 slidesurl:  https://doi.org/10.1016/j.cnsns.2022.106789
 paperurl:  ../files/RSW22.pdf
 title:  "Equilibrium validation for triblock copolymers via inverse norm bounds for fourth-order elliptic operators"
-citation: "115: 106789"
+citation: "115: 106789 (2022), 10.1016/j.cnsns.2022.106789"
 collection: publications
 
 ---

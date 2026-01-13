@@ -8,7 +8,7 @@ paperurl2:  https://www.ams.org/notices/202011/rnoti-p1692.pdf
 slidesurl:  https://doi.org/10.1090/noti2187
 paperurl:  ../files/LST20.pdf
 title:  "Modeling Dynamical Systems for 3D Printing"
-citation: "67(11): 1692-1705"
+citation: "67(11): 1692-1705 (2020), doi:10.1090/noti2187"
 collection: publications
 
 ---
