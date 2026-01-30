@@ -2,7 +2,7 @@
 title: "Alternative Fields Medals 2022"
 author_profile: false
 layout: archive
-permalink: /makerlab/
+permalink: /afm/
 ---
 
 **About the award**
