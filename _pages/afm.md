@@ -31,19 +31,19 @@ Details:
 1. Excellence in mathematics research by somebody who is currently over the age of 40:
 [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
 
-![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg)
+![Andrew J. Bernoff][100x100](../images/afm_images/AndrewBernoff.jpg)
 
 2. Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
 [Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
-![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg)
+![Lenka Zdeborová][100x100](../images/afm_images/LenkaZdeborova.jpg)
 
 3. Excellence in leadership in the mathematics community (construed broadly): 
 [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi)
-![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg)
+![Nalini Joshi][100x100](../images/afm_images/NaliniJoshi.jpg)
 
 4. Excellence in exposition of mathematics to a popular audience: 
 [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)
-![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg)
+![Talithia Williams][100x100](../images/afm_images/TalithiaWilliams.jpg)
 
 **The trophies**
 
