@@ -35,14 +35,17 @@ Details:
 
 2. Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
 [Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
+
 ![Lenka Zdeborová][100x100](../images/afm_images/LenkaZdeborova.jpg)
 
 3. Excellence in leadership in the mathematics community (construed broadly): 
 [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi)
+
 ![Nalini Joshi][100x100](../images/afm_images/NaliniJoshi.jpg)
 
 4. Excellence in exposition of mathematics to a popular audience: 
 [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)
+
 ![Talithia Williams][100x100](../images/afm_images/TalithiaWilliams.jpg)
 
 **The trophies**
