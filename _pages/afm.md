@@ -32,7 +32,7 @@ Details:
 1. Excellence in mathematics research by somebody who is currently over the age of 40:
 [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
 
-![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="100"}
+![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="10"}
 
 2. Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
 [Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
