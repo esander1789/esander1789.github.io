@@ -32,21 +32,19 @@ To help recognize the many important types of contributions to mathematics, we h
 
 **Winners**
 
-[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
+| [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
  Excellence in mathematics research by somebody who is currently over the age of 40:
-![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="100"}
-
+![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="100"} | 
 ![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width="100"}
  Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
-[Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
+[Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1) |
 
-![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){: width="100"}
+| ![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){: width="100"}
  Excellence in leadership in the mathematics community (construed broadly): 
-[Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi)
-
+[Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi) | 
 ![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg){: width="100"}
  Excellence in exposition of mathematics to a popular audience: 
-[Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)
+[Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)|
 
 **Trophies 2022**
 
