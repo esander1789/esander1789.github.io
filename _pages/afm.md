@@ -36,7 +36,7 @@ The following are the 2022 winners in the four categories listed above. They wer
 
 
 
-| ![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="300"} |![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width="300"}|![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){: width="300"} |![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg){: width="300"}|
+| ![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.png){: width="300"} |![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.png){: width="300"}|![Nalini Joshi](../images/afm_images/NaliniJoshi.png){: width="300"} |![Talithia Williams](../images/afm_images/TalithiaWilliams.png){: width="300"}|
 |1. [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)|2. [Lenka Zdeborová](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1) |3. [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi) |4. [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)|
 
 
@@ -44,7 +44,7 @@ The following are the 2022 winners in the four categories listed above. They wer
 **AFM Trophies 2022**
 
 
-|![The Langford chaotic attractor](../images/afm_images/IMG_8722.jpg)|![The spherical harmonic trophy](../images/afm_images/IMG_8733.jpg)|![The iterated function system trophy](../images/afm_images/IMG_8729.jpg)|![The Boys surface trophy](../images/afm_images/IMG_8734.jpg)|
+|![The Langford chaotic attractor](../images/afm_images/IMG_8722.png)|![The spherical harmonic trophy](../images/afm_images/IMG_8733.png)|![The iterated function system trophy](../images/afm_images/IMG_8729.png)|![The Boys surface trophy](../images/afm_images/IMG_8734.png)|
 |The Langford Attractor|Spherical Harmonic|Iterated function system|Boys surface|
 
 **The math behind the trophies**
