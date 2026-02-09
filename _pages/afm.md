@@ -2,6 +2,7 @@
 title: "Alternative Fields Medals 2022"
 author_profile: false
 layout: archive
+hide_banner: true
 permalink: /afm/
 ---
 
