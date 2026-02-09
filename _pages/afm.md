@@ -32,51 +32,39 @@ To help recognize the many important types of contributions to mathematics, we h
 
 **Winners**
 
-| ![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="100"} |![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width="100"}|![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){: width="100"} |![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg){: width="100"}|
-|[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)|[Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1) |[Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi) |[Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)|
- 
-
- 
- Excellence in mathematics research by somebody who is currently over the age of 40:
- Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
+The following are the 2022 winners in the four categories listed above. They were announced on May 25, 2022. 
 
 
- Excellence in leadership in the mathematics community (construed broadly): 
- Excellence in exposition of mathematics to a popular audience: 
 
-**Trophies 2022**
-
-- The Langford Attractor
-
-![The Langford chaotic attractor](../images/afm_images/IMG_8722.jpg){: width="100"}
-
-The dynamical system that has the Langford chaotic attractor is mentioned in this article "[Modeling Dynamical Systems for 3D Printing](https://ams.org/journals/notices/202011/rnoti-p1692.pdf)" by Stephen K. Lucas, Evelyn Sander, and Laura Taalman; in Notices of the AMS. 
-
-- Spherical Harmonic
-
-![The spherical harmonic trophy](../images/afm_images/IMG_8733.jpg){: width="100"}
-
-To learn more about spherical harmonics, see the Wikipedia page: [https://en.wikipedia.org/wiki/Spherical_harmonics](https://t.co/G9pyXDzcON)
-
-- Iterated function system
-
-![The iterated function system trophy](../images/afm_images/IMG_8729.jpg){: width="100"}
-
-Trophy based on “[Three-Dimensional Fractals](http://stubber.math-inf.uni-greifswald.de/~bandt/pub/bandtduymesing.pdf…)” by Bandt, Duy, and Mesing; in The Mathematical Intelligencer. To learn more about iterated function systems, see the Wikipedia page: https://en.wikipedia.org/wiki/Iterated_function_system
-
-- Boys surface 
-
-![The Boys surface trophy](../images/afm_images/IMG_8734.jpg){: width="100"}
-
-You can read more about Boy's Surface (which was named after Werner Boy, from work in his dissertation under David Hilbert) at this page: [https://virtualmathmuseum.org/Surface/boys_apery/boys_apery.html](https://t.co/KqnN1knkho)
+| ![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){: width="300"} |![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width="300"}|![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){: width="300"} |![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg){: width="300"}|
+|1. [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)|2. [Lenka Zdeborová](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1) |3. [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi) |4. [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)|
 
 
-Trophy Design: Evelyn Sander. 
-Trophy Printing: Patrick Bishop. 
-Photo credits: All photos by D.M. Anderson. 
+
+**AFM Trophies 2022**
+
+
+|![The Langford chaotic attractor](../images/afm_images/IMG_8722.jpg)|![The spherical harmonic trophy](../images/afm_images/IMG_8733.jpg)|![The iterated function system trophy](../images/afm_images/IMG_8729.jpg)|![The Boys surface trophy](../images/afm_images/IMG_8734.jpg)|
+|The Langford Attractor|Spherical Harmonic|Iterated function system|Boys surface|
+
+**The math behind the trophies**
+
+- The dynamical system that has the Langford chaotic attractor is mentioned in this article "[Modeling Dynamical Systems for 3D Printing](https://ams.org/journals/notices/202011/rnoti-p1692.pdf)" by Stephen K. Lucas, Evelyn Sander, and Laura Taalman; in Notices of the AMS. 
+
+- To learn more about spherical harmonics, see the Wikipedia page: [https://en.wikipedia.org/wiki/Spherical_harmonics](https://t.co/G9pyXDzcON)
+
+- Trophy based on “[Three-Dimensional Fractals](http://stubber.math-inf.uni-greifswald.de/~bandt/pub/bandtduymesing.pdf…)” by Bandt, Duy, and Mesing; in The Mathematical Intelligencer. To learn more about iterated function systems, see the Wikipedia page: https://en.wikipedia.org/wiki/Iterated_function_system
+
+- You can read more about Boy's Surface (which was named after Werner Boy, from work in his dissertation under David Hilbert) at this page: [https://virtualmathmuseum.org/Surface/boys_apery/boys_apery.html](https://t.co/KqnN1knkho)
+
+
+**Acknowledgements**
 
 - Thank you to those who contributed **nominations** for the four categories! (We received suggestions before **May 10**.)
-- **Winners were announced on May 25, 2022.**
+- Trophy Design: Evelyn Sander. 
+- Trophy Printing: Patrick Bishop. 
+- Photo credits: All photos by D.M. Anderson. 
+
 
 
 
