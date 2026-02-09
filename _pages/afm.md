@@ -1,5 +1,5 @@
 ---
-title: "Alternative Fields Medals 2022"
+title: "The Alternative Fields Medals"
 author_profile: false
 layout: archive
 show_nav: false
@@ -18,16 +18,19 @@ To help recognize the many important types of contributions to mathematics, we h
 
 4. Excellence in exposition of mathematics to a popular audience.
 
-Details: 
 
-- Thank you to those who contributed **nominations** for the four categories! (We received suggestions before **May 10**.)
+**2026 Awards**
+
+- We are seeking **nominations** for the four categories! (We need your suggestions before **May 10**.)
 - For more information, please contact Mason Porter and Evelyn Sander by direct message or e-mail.
-- **Winners are announced below on May 25, 2022.**
+- **Winners are announced below on May 25, 2026.**
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
 
 
-**Here are the winners**
+**2022 Awards**
+
+**Winners**
 
 [Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
  Excellence in mathematics research by somebody who is currently over the age of 40:
@@ -45,7 +48,7 @@ Details:
  Excellence in exposition of mathematics to a popular audience: 
 [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)
 
-**The trophies**
+**Trophies 2022**
 
 - The Langford Attractor
 
@@ -75,3 +78,9 @@ You can read more about Boy's Surface (which was named after Werner Boy, from wo
 Trophy Design: Evelyn Sander. 
 Trophy Printing: Patrick Bishop. 
 Photo credits: All photos by D.M. Anderson. 
+
+- Thank you to those who contributed **nominations** for the four categories! (We received suggestions before **May 10**.)
+- **Winners were announced on May 25, 2022.**
+
+
+
