@@ -60,7 +60,7 @@ The following are the 2022 winners in the four categories listed above. They wer
 
 **Acknowledgements**
 
-- Thank you to those who contributed **nominations** for the four categories! (We received suggestions before **May 10**.)
+- Thank you to those who contributed **nominations** for the four categories! 
 - Trophy Design: Evelyn Sander. 
 - Trophy Printing: Patrick Bishop. 
 - Photo credits: All photos by D.M. Anderson. 
