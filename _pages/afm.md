@@ -37,7 +37,7 @@ Details:
 2. Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
 [Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
 
-![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width=100px}
+![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){: width="100"}
 
 3. Excellence in leadership in the mathematics community (construed broadly): 
 [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi)
