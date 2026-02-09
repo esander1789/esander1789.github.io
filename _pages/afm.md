@@ -53,20 +53,20 @@ Details:
 
 - The Langford Attractor
 
-![The Langford chaotic attractor](../images/afm_images/IMG_8722.jpg)
+![The Langford chaotic attractor](../images/afm_images/IMG_8722.jpg){width=100px}
 
 The dynamical system that has the Langford chaotic attractor is mentioned in this article "[Modeling Dynamical Systems for 3D Printing](https://ams.org/journals/notices/202011/rnoti-p1692.pdf)" by Stephen K. Lucas, Evelyn Sander, and Laura Taalman; in Notices of the AMS. 
 
 - Spherical Harmonic
-![The spherical harmonic trophy](../images/afm_images/IMG_8733.jpg)
+![The spherical harmonic trophy](../images/afm_images/IMG_8733.jpg){width=100px}
 To learn more about spherical harmonics, see the Wikipedia page: [https://en.wikipedia.org/wiki/Spherical_harmonics](https://t.co/G9pyXDzcON)
 
 - Iterated function system
-![The iterated function system trophy](../images/afm_images/IMG_8729.jpg)
+![The iterated function system trophy](../images/afm_images/IMG_8729.jpg){width=100px}
 Trophy based on “[Three-Dimensional Fractals](http://stubber.math-inf.uni-greifswald.de/~bandt/pub/bandtduymesing.pdf…)” by Bandt, Duy, and Mesing; in The Mathematical Intelligencer. To learn more about iterated function systems, see the Wikipedia page: https://en.wikipedia.org/wiki/Iterated_function_system
 
 - Boys surface 
-![The Boys surface trophy](../images/afm_images/IMG_8734.jpg)
+![The Boys surface trophy](../images/afm_images/IMG_8734.jpg){width=100px}
 You can read more about Boy's Surface (which was named after Werner Boy, from work in his dissertation under David Hilbert) at this page: [https://virtualmathmuseum.org/Surface/boys_apery/boys_apery.html](https://t.co/KqnN1knkho)
 
 
