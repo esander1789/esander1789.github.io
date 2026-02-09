@@ -30,24 +30,24 @@ Details:
 **Here are the winners**
 
 1. Excellence in mathematics research by somebody who is currently over the age of 40:
-[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/){width=100px}
+[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
 
-![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg)
+![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg){width=100px}
 
 2. Excellence in mathematics research with approaches that are not mathematically rigorous (construed broadly):  
 [Lenka Zdeborová - Wikipedia](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1)
 
-![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg)
+![Lenka Zdeborová](../images/afm_images/LenkaZdeborova.jpg){width=100px}
 
 3. Excellence in leadership in the mathematics community (construed broadly): 
 [Nalini Joshi](https://en.wikipedia.org/wiki/Nalini_Joshi)
 
-![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg)
+![Nalini Joshi](../images/afm_images/NaliniJoshi.jpg){width=100px}
 
 4. Excellence in exposition of mathematics to a popular audience: 
 [Talithia Williams](https://en.wikipedia.org/wiki/Talithia_Williams)
 
-![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg)
+![Talithia Williams](../images/afm_images/TalithiaWilliams.jpg){width=100px}
 
 **The trophies**
 
