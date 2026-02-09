@@ -30,7 +30,7 @@ Details:
 **Here are the winners**
 
 1. Excellence in mathematics research by somebody who is currently over the age of 40:
-[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/)
+[Andrew J. Bernoff](http://www.math.hmc.edu/~ajb/){width=100px}
 
 ![Andrew J. Bernoff](../images/afm_images/AndrewBernoff.jpg)
 
