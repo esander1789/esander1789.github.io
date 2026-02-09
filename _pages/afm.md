@@ -23,7 +23,7 @@ To help recognize the many important types of contributions to mathematics, we h
 
 - We are seeking **nominations** for the four categories! (We need your suggestions before **May 10**.)
 - For more information, please contact Mason Porter and Evelyn Sander by direct message or e-mail.
-- **Winners are announced below on May 25, 2026.**
+- **Winners will be announced on May 25, 2026.**
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
 
