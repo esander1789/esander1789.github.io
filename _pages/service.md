@@ -61,6 +61,7 @@ permalink: /service/
 
 ## Department Service 
 
+ - Review of Doctoral Research Scholarship Applications, GMU Spring 2026
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
  - GMU Math Policy and Hiring Committee,  2006 - 2008, 2012 - 2014, 2024 - Present
  - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
