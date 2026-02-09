@@ -53,7 +53,7 @@ The following are the 2022 winners in the four categories listed above. They wer
 
 - To learn more about spherical harmonics, see the Wikipedia page: [https://en.wikipedia.org/wiki/Spherical_harmonics](https://t.co/G9pyXDzcON)
 
-- Trophy based on “[Three-Dimensional Fractals](http://stubber.math-inf.uni-greifswald.de/~bandt/pub/bandtduymesing.pdf…)” by Bandt, Duy, and Mesing; in The Mathematical Intelligencer. To learn more about iterated function systems, see the Wikipedia page: https://en.wikipedia.org/wiki/Iterated_function_system
+- Trophy based on “[Three-Dimensional Fractals](http://stubber.math-inf.uni-greifswald.de/~bandt/pub/bandtduymesing.pdf…)” by Bandt, Duy, and Mesing; in The Mathematical Intelligencer. To learn more about iterated function systems, see the Wikipedia page: [https://en.wikipedia.org/wiki/Iterated_function_system](https://en.wikipedia.org/wiki/Iterated_function_system)
 
 - You can read more about Boy's Surface (which was named after Werner Boy, from work in his dissertation under David Hilbert) at this page: [https://virtualmathmuseum.org/Surface/boys_apery/boys_apery.html](https://t.co/KqnN1knkho)
 
