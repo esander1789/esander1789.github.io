@@ -108,8 +108,8 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## Undergraduate Learning Assistant Supervisor
 
+-   Minh Phan: 			Math 401,	Fall, 2024 and Fall, 2025
 -   Eric Zipor: 		Math 401,	Fall, 2024
--   Minh Phan: 			Math 401,	Fall, 2024
 -   Max Werkheiser: 	Math 401,	Fall, 2023
 -	Michael Matthews:	Math 401,	Fall 2023		
 -	Ryan Simmons:		Math 401,	Fall 2022		
