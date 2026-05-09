@@ -62,6 +62,7 @@ permalink: /service/
 
 ## Department Service 
 
+ - Organizer, Lean Learning Seminar, Fall 2026
  - Review of Doctoral Research Scholarship Applications, GMU Spring 2026
  - Graduate Director, GMU Dept of Math. Sciences,		August  2023 -		Present
  - GMU Math Policy and Hiring Committee,  2006 - 2008, 2012 - 2014, 2024 - Present
