@@ -20,18 +20,19 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 ## PhD Committee Member
 
 -	Toni Smith:			Howard University, Current, 	Advisor: Sayomi Kamimoto
--   Ethan Gibson: 		Physics GMU, Current,			Advisor: Peter Becker
 -   Sharr Luboteni: 	Physics GMU, Current,			Advisor: Peter Becker
--	Thunyapong Mahapol:	Physics GMU, Current,			Advisor: Peter Becker		
--	Frank Pryor: 		Current, 						Advisor: Thomas Wanner
--	Justin Thorpe:		Current,						Advisor: Thomas Wanner		
--	Joseph Franks:		Current,						Advisor: Carlos Rautenberg		
--	Don Brusaferro:		Current,						Advisor: Carlos Rautenberg		
--	Jackson Williams:	Current,						Advisor: Matt Holzer		
--	Julia Seay: 		Current, 						Advisor: Matt Holzer
--	Jessica Masterson:	Current,						Advisor: Dan Anderson		
+-	Frank Pryor: 		Math GMU, Current, 						Advisor: Thomas Wanner
+-	Joseph Franks:		Math GMU, Current,						Advisor: Carlos Rautenberg		
+-	Don Brusaferro:		Math GMU, Current,						Advisor: Carlos Rautenberg		
+-	Julia Seay: 		Math GMU, Current, 						Advisor: Matt Holzer
+-	Jessica Masterson:	Math GMU, Current,						Advisor: Dan Anderson		
+
+-   Ethan Gibson: 		Physics GMU,			Advisor: Peter Becker, July 23, 2026
+-	Justin Thorpe:		Math GMU,						Advisor: Thomas Wanner, July 20, 2026		
+-	Thunyapong Mahapol:	Physics GMU,			Advisor: Peter Becker, April 6, 2026		
+-	Jackson Williams:	Math GMU, Inactive,						Advisor: Matt Holzer		
 -   Maxime Payan:       Ecole Polytechnique Paris, Reviewer  Advisor: Maxime Breden, November 4,2025
--	Peter Rizzi:		Advisor: Thomas Wanner, June 1, 2022								
+-	Peter Rizzi:		Math GMU, Advisor: Thomas Wanner, June 1, 2022								
 -	Guy Djokam:			UMBC, Advisor: Muruhan Rathinam, November 2, 2021		
 -	Elena Queirolo:		Vrije Universiteit Amsterdam,	as Reader.	Advisor: Jan Bouwe van den Berg, April 20, 2019
 -	Scott Watson:		Physics GMU,			Advisor: Paul So, April 19, 2018
