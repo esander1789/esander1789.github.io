@@ -21,7 +21,8 @@ To help recognize the many important types of contributions to mathematics, we h
 
 **2026 Awards**
 
-- We are seeking **nominations** for the four categories! We need your suggestions before **July 10, 2026**
+- We will be announcing the winners soon! 
+- Thank you for the  **nominations** for the four categories! The last date for suggestions was **July 10, 2026**
 - All nominations should be sent to AFM.prize@gmail.com 
 - **We will then determine the winners.**
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
