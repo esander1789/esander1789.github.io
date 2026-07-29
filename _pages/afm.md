@@ -32,10 +32,7 @@ To help recognize the many important types of contributions to mathematics, we h
 
 The following are mockups of the trophies. Photos will fill in as they get printed.
 
-|![Girl’s Surface trophy](../images/afm_images/Trophy26girls.png){: width="300"}|
-![Lorenz manifold trophy](../images/afm_images/Trophy26roessler.png){: width="300"}|
-![Roessler attractor trophy](../images/afm_images/Trophy26lorenzmfld.png){: width="300"}|
-![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.png){: width="300"}|
+|![Girl’s Surface trophy](../images/afm_images/Trophy26girls.png){: width="300"}|![Lorenz manifold trophy](../images/afm_images/Trophy26roessler.png){: width="300"}|![Roessler attractor trophy](../images/afm_images/Trophy26lorenzmfld.png){: width="300"}|![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.png){: width="300"}|
 |Girl's Surface|Lorenz Manifold|Roessler Attractor|Clebsch Surface|
 
 **The math behind the trophies**
