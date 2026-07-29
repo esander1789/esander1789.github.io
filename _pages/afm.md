@@ -27,6 +27,31 @@ To help recognize the many important types of contributions to mathematics, we h
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
 
+**AFM Trophies 2026**
+
+The following are mockups of the trophies. Photos will fill in as they get printed.
+
+|![Girl’s Surface trophy](../images/afm_images/Trophy26girls.png)|
+![Lorenz manifold trophy](../images/afm_images/Trophy26roessler.png)|
+![Roessler attractor trophy](../images/afm_images/Trophy26lorenzmfld.png)|
+![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.png)|
+|Girl's Surface|Lorenz Manifold|Roessler Attractor|Clebsch Surface|
+
+**The math behind the trophies**
+
+- Girl’s Surface is a compact immersion of the real projective plane into three-dimensional space due to Goodman and Kossokowski in 2009. (The name is a tongue in cheek reference:  the best known compact immersion was developed in 1901 by Werner Boy, and is known as Boy’s Surface.) For more information, see [Girl’s surface](https://people.eecs.berkeley.edu/~sequin/PAPERS/2013_Bridges_GirlSurface.pdf) by Sue Goodman, Alex Mellnik, and Carlo Sequin; in Proceedings of Bridges, 2013. 
+
+- The Lorenz system was original developed in 1963 as a simplified model of atmospheric convection. This object is the two-dimensional stable manifold of the equilibrium point at the origin. See 
+ [3D Printing of Invariant Manifolds in Dynamical Systems](https://www.ams.org/journals/notices/202601/noti3288/noti3288.html), by 
+Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, Evelyn Sander, and Julia Seay in the AMS Notices, 2026. 
+
+- The Rössler system was originally created in 1976 in [An equation for continuous chaos](https://www.sciencedirect.com/science/article/abs/pii/0375960176901018), by O. E. Rössler, in Physics Letters, with the goal of showing that chaos could occur in systems that were even simpler than the Lorenz system.
+ See also [Modeling Dynamical Systems for 3D Printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)” by Stephen K. Lucas, E. Sander, and Laura Taalman, in AMS Notices, 2020. 
+ 
+
+- The Clebsch Diagonal Cubic Surface  is a surface that was studied by Afred Clebsch in his [1871 paper](https://doi.org/10.1007/BF01442599) on the geometric interpretation of the theory of the quintic equation and also by Felix Klein in 1873. It is a nonsingular surface which has as its symmetry group the symmetric group S5. See also the [Clebsch surface Wikipedia page](https://en.wikipedia.org/wiki/Clebsch_surface). 
+
+
 
 **2022 Awards**
 
