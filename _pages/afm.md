@@ -30,7 +30,8 @@ To help recognize the many important types of contributions to mathematics, we h
 
 **Winners 2026**
 
-| ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Edray Goins](../images/afm_images/JonathanMattingly.png){: width="300"}|![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} |![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
+| ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} 
+|![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
 |[Edray Goins](https://goins.sites.pomona.edu)| [Jonathan Mattingly](https://sites.math.duke.edu/~jonm/) | [Joel Hamkins](https://jdh.hamkins.org/) |
 
 Edray Goins, Professor of Mathematics and Statistics at Pomona College, is the winner of the AFM prize for excellence in leadership in the mathematics community. For many years, Prof. Goins has run summer programs for underrepresented minorities. These programs include an institute for freshman at Caltech, programs at Miami University and SLMath, and an REU at Pomona College. From 2015 to 2020, he was President of the National Association of Mathematics. He also maintains the website Mathematicians of the African Diaspora. More information about Prof. Goins is available at [https://goins.sites.pomona.edu]([https://goins.sites.pomona.edu]).
