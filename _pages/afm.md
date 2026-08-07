@@ -18,6 +18,7 @@ To help recognize the many important types of contributions to mathematics, we h
 
 4. Excellence in exposition of mathematics to a popular audience.
 
+**More Details**
 
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
