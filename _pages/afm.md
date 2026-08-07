@@ -30,7 +30,7 @@ To help recognize the many important types of contributions to mathematics, we h
 
 **Winners 2026**
 
-| ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} 
+| ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Jonathan Mattingly](../images/afm_images/JonathanMattingly.png){: width="300"} 
 |![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
 |[Edray Goins](https://goins.sites.pomona.edu)| [Jonathan Mattingly](https://sites.math.duke.edu/~jonm/) | [Joel Hamkins](https://jdh.hamkins.org/) |
 
