@@ -19,15 +19,14 @@ To help recognize the many important types of contributions to mathematics, we h
 4. Excellence in exposition of mathematics to a popular audience.
 
 
-**2026 Awards**
-
-- We will be announcing the winners soon! 
-- Thank you for the  **nominations** for the four categories! The last date for suggestions was **July 10, 2026**
-- All nominations should be sent to AFM.prize@gmail.com 
-- **We will then determine the winners.**
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
+- All comments should be sent to AFM.prize@gmail.com 
 
+
+**2026 Awards**
+
+- The winners have been decided! Thank you for the  **nominations** for the four categories! (The last date for suggestions was **July 10, 2026**)
 
 **Winners 2026**
 | ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Edray Goins](../images/afm_images/JonathanMattingly.png){: width="300"}|![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} |![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
