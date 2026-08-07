@@ -28,6 +28,20 @@ To help recognize the many important types of contributions to mathematics, we h
 - The award consists of a 3D-printed mathematical trophy and some bragging rights.
 - The decision for who ultimately receives the award is made solely by Mason Porter and Evelyn Sander. We are speaking on our own behalves and are not representative of anyone else. Our authority is based solely on (1) coming up with the idea and (2) making the trophies.
 
+
+**Winners 2026**
+| ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Edray Goins](../images/afm_images/JonathanMattingly.png){: width="300"}|![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} |![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
+|[Edray Goins](https://goins.sites.pomona.edu)| [Jonathan Mattingly](https://sites.math.duke.edu/~jonm/) | [Joel Hamkins](https://jdh.hamkins.org/) |
+
+Edray Goins, Professor of Mathematics and Statistics at Pomona College, is the winner of the AFM prize for excellence in leadership in the mathematics community. For many years, Prof. Goins has run summer programs for underrepresented minorities. These programs include an institute for freshman at Caltech, programs at Miami University and SLMath, and an REU at Pomona College. From 2015 to 2020, he was President of the National Association of Mathematics. He also maintains the website Mathematicians of the African Diaspora. More information about Prof. Goins is available at [https://goins.sites.pomona.edu]([https://goins.sites.pomona.edu]).
+
+
+
+Jonathan Mattingly, Kimberly J. Jenkins Distinguished University Professor of New Technologies in the Department of Mathematics at Duke University, is the winner of the AFM prize for research by a researcher who is over age 40. Prof. Mattingly works in stochastic partial differential equations, random dynamical systems, and their applications. He has made important contributions to the study of Navier–Stokes equations, a variety of biological problems, mathematical gerrymandering, and other topics. As part of his work on mathematical gerrymandering (i.e., the mathematics of redistricting), Prof. Mattingly has testified in court cases and political hearings. More information about Prof. Mattingly is available at [https://sites.math.duke.edu/~jonm/](https://sites.math.duke.edu/~jonm/).
+
+Joel David Hamkins, John Cardinal O'Hara Professor of Logic in the Department of Philosophy at Notre Dame University, is the winner of the AFM prize for excellence in exposition of mathematics to a popular audience. Prof. Hamkins has written many mathematics books for popular audiences, and he has also been the top-ranked user on MathOverflow since 2010, where he has written almost 2000 posts (with over 5.8 million views). More information about Prof. Hamkins is available at [https://jdh.hamkins.org/](https://jdh.hamkins.org/).
+
+
 **AFM Trophies 2026**
 
 The following are mockups of the trophies. Photos will fill in as they get printed.
@@ -53,7 +67,7 @@ Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, E
 
 **2022 Awards**
 
-**Winners**
+**Winners 2022**
 
 The following are the 2022 winners in the four categories listed above. They were announced on May 25, 2022. 
 
