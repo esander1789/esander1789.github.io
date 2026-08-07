@@ -29,6 +29,7 @@ To help recognize the many important types of contributions to mathematics, we h
 - The winners have been decided! Thank you for the  **nominations** for the four categories! (The last date for suggestions was **July 10, 2026**)
 
 **Winners 2026**
+
 | ![Edray Goins](../images/afm_images/EdrayGoins.jpg){: width="300"} |![Edray Goins](../images/afm_images/JonathanMattingly.png){: width="300"}|![Jonathan Mattingly](../images/afm_images/JoelHamkins.png){: width="300"} |![Joel David Hamkins](../images/afm_images/JoelHamkins.jpg){: width="300"}|
 |[Edray Goins](https://goins.sites.pomona.edu)| [Jonathan Mattingly](https://sites.math.duke.edu/~jonm/) | [Joel Hamkins](https://jdh.hamkins.org/) |
 
