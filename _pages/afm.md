@@ -35,7 +35,7 @@ To help recognize the many important types of contributions to mathematics, we h
 |:---:|:---:|:---:|
 |[Edray Goins](https://goins.sites.pomona.edu)| [Jonathan Mattingly](https://sites.math.duke.edu/~jonm/) | [Joel David Hamkins](https://jdh.hamkins.org/) |
 
-Edray Goins, Professor of Mathematics and Statistics at Pomona College, is the winner of the AFM prize for excellence in leadership in the mathematics community. For many years, Prof. Goins has run summer programs for underrepresented minorities. These programs include an institute for freshman at Caltech, programs at Miami University and SLMath, and an REU at Pomona College. From 2015 to 2020, he was President of the National Association of Mathematics. He also maintains the website Mathematicians of the African Diaspora. More information about Prof. Goins is available at [https://goins.sites.pomona.edu]([https://goins.sites.pomona.edu]).
+Edray Goins, Professor of Mathematics and Statistics at Pomona College, is the winner of the AFM prize for excellence in leadership in the mathematics community. For many years, Prof. Goins has run summer programs for underrepresented minorities. These programs include an institute for freshman at Caltech, programs at Miami University and SLMath, and an REU at Pomona College. From 2015 to 2020, he was President of the National Association of Mathematics. He also maintains the website Mathematicians of the African Diaspora. More information about Prof. Goins is available at [https://goins.sites.pomona.edu](https://goins.sites.pomona.edu).
 
 
 
