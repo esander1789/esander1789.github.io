@@ -46,7 +46,7 @@ Joel David Hamkins, John Cardinal O'Hara Professor of Logic in the Department of
 
 **AFM Trophies 2026**
 
-The following are mockups of the trophies. Photos will fill in as they get printed.
+
 
 |![Girl’s Surface trophy](../images/afm_images/Trophy26girls.png){: width="300"}|![Lorenz manifold trophy](../images/afm_images/Trophy26lorenzmfld.png){: width="300"}|![Roessler attractor trophy](../images/afm_images/Trophy26roessler.png){: width="300"}|![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.png){: width="300"}|
 |Girl's Surface|Lorenz Manifold|R&ouml;ssler Attractor|Clebsch Surface|
@@ -65,7 +65,11 @@ Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, E
 
 - The Clebsch Diagonal Cubic Surface  is a surface that was studied by Afred Clebsch in his [1871 paper](https://doi.org/10.1007/BF01442599) on the geometric interpretation of the theory of the quintic equation and also by Felix Klein in 1873. It is a nonsingular surface which has as its symmetry group the symmetric group S<sub>5</sub>. See also the [Clebsch surface Wikipedia page](https://en.wikipedia.org/wiki/Clebsch_surface). 
 
+**Acknowledgements**
 
+- Thank you to those who contributed **nominations**! 
+- Trophy Design: Evelyn Sander.
+- Trophy Printing: Nicole Savir. 
 
 **2022 Awards**
 
