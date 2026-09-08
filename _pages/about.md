@@ -15,6 +15,8 @@ Fairfax, Virginia
 Teaching 
 ======
 - In Fall 2026, I am organizing the [Lean Learning Seminar](https://science.gmu.edu/academics/departments-units/mathematical-sciences/lean-learning-seminar). 
+I am keeping a relevant  [List of Reading Materials](https://github.com/esander1789/LeanLearningSeminar/blob/main/ReadingMaterials.md) including the news articles on 
+new AI-Lean math results. 
 - In January 2026, "3D Printing of Invariant Manifolds in Dynamical Systems" was the cover article in the AMS Notices!
 - In July 2025 I taught an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
 with Jonathan Jaquette. I taught this material again as a Special Topics Graduate Class in Spring 2026. 
