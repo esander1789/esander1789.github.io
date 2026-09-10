@@ -48,7 +48,7 @@ Joel David Hamkins, John Cardinal O'Hara Professor of Logic in the Department of
 
 
 
-|![Girl’s Surface trophy](../images/afm_images/Trophy26girls.png){: width="300"}|![Lorenz manifold trophy](../images/afm_images/Trophy26lorenzmfld.jpeg){: width="300"}|![Roessler attractor trophy](../images/afm_images/Trophy26roessler.jpeg){: width="300"}|![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.jpeg){: width="300"}|
+|![Girl’s Surface trophy](../images/afm_images/Trophy26girls.jpeg){: width="300"}|![Lorenz manifold trophy](../images/afm_images/Trophy26lorenzmfld.jpeg){: width="300"}|![Roessler attractor trophy](../images/afm_images/Trophy26roessler.jpeg){: width="300"}|![Clebsch surface trophy](../images/afm_images/Trophy26clebsch.jpeg){: width="300"}|
 |Girl's Surface|Lorenz Manifold|R&ouml;ssler Attractor|Clebsch Surface|
 
 **The math behind the trophies**
