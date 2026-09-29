@@ -1,14 +1,12 @@
 ---
 permalink:  /publication/BSW26
 
-date: 2025-01-21
+date: 2026-09-29
 author:  "Maxime Breden, Evelyn Sander, and Thomas Wanner"
-venue:  "preprint""
+venue:  " "
 title:  "Validation of Symmetry Induced Bifurcation Points in Nonlinear Diffusion Problems"
-slidesurl: 
-paperurl:  
-citation: "2026 "
+citation: "Submitted"
 collection: publications
-paperarxiv:  
+
 
 ---
