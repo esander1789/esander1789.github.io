@@ -7,6 +7,7 @@ venue:  " "
 title:  "Validation of Symmetry Induced Bifurcation Points in Nonlinear Diffusion Problems"
 citation: "Submitted"
 collection: publications
-
+paperarxiv:  https://arxiv.org/abs/2609.38629
+paperurl: ../files/BSW26.pdf 
 
 ---
