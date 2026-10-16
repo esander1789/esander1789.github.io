@@ -6,7 +6,7 @@ author:  "S. Das, Y. Saiki, E. Sander, and J.A. Yorke"
 venue:  "Discrete & Continuous Dynamical Systems - S"
 paperurl2:  http://aimsciences.org//article/doi/10.3934/dcdss.2019145
 slidesurl:  https://doi.org/doi:10.3934/dcdss.2019145
-paperurl:  ../files/DSSY19.pdf
+paperarxiv:  https://arxiv.org/abs/1706.02595
 title:  "Solving the Babylonian Problem of quasiperiodic rotation rates"
 citation: "12(8): 2279-2305"
 collection: publications

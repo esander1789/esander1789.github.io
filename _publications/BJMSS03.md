@@ -6,7 +6,6 @@ author:  "E. Barreto, K. Josic, C. Morales, E. Sander, and P. So"
 venue:  "Chaos"
 paperurl2:  http://scitation.aip.org/content/aip/journal/chaos/13/1/10.1063/1.1512927
 slidesurl:  https://doi.org/10.1063/1.1512927
-paperurl:  ../files/BJMSS03.pdf
 title:  "The geometry of chaos synchronization"
 citation: "13(1):151-164"
 collection: publications

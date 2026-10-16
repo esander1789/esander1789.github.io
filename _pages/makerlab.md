@@ -16,7 +16,7 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 **Teaching**
 
-- [Math 401: Mathematics Through 3D printing](http://gmumathmaker.blogspot.com/2021/09/mathematics-through-3d-printing-fall.html) (capstone course), every fall starting in 2019
+- Math 401: Mathematics Through 3D Printing (capstone course), every fall starting in 2019
 - [Math 493: Mathematics Through 3D Printing, Spring 2016](http://gmumathmaker.blogspot.com/2016/03/thingiverse-entries-for-math-493.html)
 - [Math 213: Multivariable Calculus, Spring 2015](http://gmumathmaker.blogspot.com/2015/05/calling-it-semester-on-multivariable.html)
 
@@ -30,10 +30,10 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 **Talks**
 
-- [Construct3D talk February 2020](../files/talks/construct3d2020.html)
-- [An overview of 3D printing and tutorials on how to begin.](../files/talks/an-introduction-to-3d-print.html)
-- [Speed dating event](../files/talks/speeddating/3DTalkSander102716.pdf), Active Learning Seminar, GMU, October 27, 2016. [Infographic](http://math.gmu.edu/~sander/talks/speeddating/infographic-sander.pdf)
-- [Technology and Innovations Conference September 2015](../files/talks/an-introduction-to-3d-print.html)
+- Construct3D talk February 2020
+- An overview of 3D printing and tutorials on how to begin.
+- Speed dating event, Active Learning Seminar, GMU, October 27, 2016 (slides and infographic)
+- Technology and Innovations Conference September 2015
 
 **Other Mathematical Visualization**
 
@@ -54,10 +54,10 @@ Activities include research, teaching, outreach, tutorial development, as detail
 
 - Ultimaker S5
 - Ultimaker S7
-- Monoprice mini
+- Snapmaker U1
 
 **Software**  
 
-- Slicers: Makerbot Desktop, Simplify 3D, and CURA
+- Slicers: CURA and Snapmaker Orca
 - Design: OpenSCAD, Tinkercad, Mathematica, Paraview, Sketchup, Matlab, C.
 

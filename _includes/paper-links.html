@@ -1,0 +1,10 @@
+{% comment %}Citation line and links for a publication. Pass the publication as item.{% endcomment %}
+{% assign p = include.item %}
+{% assign links = "" | split: "" %}
+{% if p.paperurl %}{% capture l %}<a href="{{ p.paperurl }}">Download Paper</a>{% endcapture %}{% assign links = links | push: l %}{% endif %}
+{% if p.slidesurl %}{% capture l %}<a href="{{ p.slidesurl }}">Journal Link</a>{% endcapture %}{% assign links = links | push: l %}{% endif %}
+{% if p.paperurl2 %}{% capture l %}<a href="{{ p.paperurl2 }}">Alternate link</a>{% endcapture %}{% assign links = links | push: l %}{% endif %}
+{% if p.paperarxiv %}{% capture l %}<a href="{{ p.paperarxiv }}">arXiv</a>{% endcapture %}{% assign links = links | push: l %}{% endif %}
+{% if p.citation or links.size > 0 %}
+<p style="font-size: smaller">{% if p.citation %}Citation: {{ p.author | strip }}, {{ p.title }}, {% assign venue = p.venue | strip %}{% if venue != "" %}<i>{{ venue }}</i>, {% endif %}{{ p.citation }}, {{ p.date | default: "1900-01-01" | date: "%Y" }}.{% if links.size > 0 %}<br />{% endif %}{% endif %}{{ links | join: " | " }}</p>
+{% endif %}

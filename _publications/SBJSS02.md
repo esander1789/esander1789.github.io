@@ -6,7 +6,6 @@ author:  "P. So, E. Barreto, K. Josic, E. Sander and S.J. Schiff"
 venue:  "Physical Review E"
 paperurl2:  http://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.046225
 slidesurl:  https://doi.org/10.1103/PhysRevE.65.046225
-paperurl:  ../files/SBJSS02.pdf
 title:  "Limits to the experimental detection of nonlinear synchrony"
 citation: "65(4):046225"
 collection: publications

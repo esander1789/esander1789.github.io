@@ -18,11 +18,11 @@ permalink: /service/
  
  - Member of the SIAM Journal Committee, 1/1/2026-12/31/2028
  - Member of the SIAM Council,			 First term: 1/1/2022	 -	 2024, Second term: 2025 - 12/31/2027
- - SIAM Committee on Strategic Intiatives,			 1/1/2023	 -	 12/31/2025
+ - SIAM Committee on Strategic Initiatives,			 1/1/2023	 -	 12/31/2025
  - SIAM Council Representative to the Board,			 1/1/2023 -		 12/31/2024
  - Chair of J. D. Crawford Prize Selection Committee,			Spring 2019 
  - Program Director, SIAM activity group on dynamical systems,			2016 
- - SIAM Dynamical Systems Activity Group Liason to SIAM News,			2008 -		2016
+ - SIAM Dynamical Systems Activity Group Liaison to SIAM News,			2008 -		2016
  - Member of the development committee for the Juergen Moser Prize, SIAG-DS		 2012 -	 2015
  - Member AWM Policy and Advocacy Committee		2010	 -	 2012
  - Hiring committee for postdocs, Institute for Mathematics and Its Applications, Minnesota,			Spring 2012	 
@@ -50,7 +50,7 @@ permalink: /service/
  - Numerical Measures of Chaos and Regularity, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (with Jim Meiss),		May 21- 25, 2019
  - Organizing Committee, Midwest/McGehee Dynamical Systems Conference,  Minneapolis, MN	,	November 1- 4, 2018
  - Organizer of 2017 SIAM Conference on Applications in Dynamical Systems (DS17), Snowbird, Utah (with Martin Wechselberger),		May 21-25, 2017
- - Career Options for Women in Math, Institute for Mathematics and it Applications,  (with Cheri Shakiban),		March 4- 5, 2013
+ - Career Options for Women in Math, Institute for Mathematics and its Applications (with Cheri Shakiban),		March 4-5, 2013
  - SIAG/DS Minisymposium Track (consisting of six minisymposia), at the ICIAM 2011, Vancouver BC Canada	,	July 18-22, 2011
  - Applied Topological Dynamics, Minisymposium, (as part of the track organized above), ICIAM, Vancouver BC, Canada,		July 18-22, 2011 
  - Scientific Organizing Committee Member, SIAG/DS, SIAG/APDE and Spanish Math Societies Joint Conference, Barcelona, Spain	,	May 31 - June 4, 2010
