@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
+subtitle: "Evelyn Sander"
 permalink: /cv/
 author_profile: true
 redirect_from:

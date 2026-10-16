@@ -399,3 +399,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Title with a second line, such as the CV page */
+.page__title--subtitled {
+  font-size: $type-size-2;
+  line-height: 1.25;
+  margin-bottom: 1.5em;
+}
