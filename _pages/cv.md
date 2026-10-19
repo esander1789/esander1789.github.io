@@ -72,6 +72,6 @@ Service and leadership
 * Member of the SIAM Council, 2022 - 2027
 * Associate Editor, SIAM Journal on Applied Dynamical Systems, 2010 - present
 * Editor in Chief, SIAM Journal on Applied Dynamical Systems, 2018 - 2023
-* See the [Service](/service/) page for editorial, professional, conference and department service.
+* See the [Service](/service/) page for a full list of editorial, professional, conference and department service.
 
 
