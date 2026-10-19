@@ -42,7 +42,7 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %}Plus {{ earlier }} earlier publications. {% endif %}See the [Publications](/publications/) page for the full list.
+{% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %} {% endif %}See the [Publications](/publications/) page for the full list of publications.
 
 Recent Talks
 ======
@@ -50,7 +50,7 @@ Recent Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-{% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %}Plus {{ earlier }} earlier talks. {% endif %}See the [Talks](/talks/) page for the full list.
+{% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %}Plus earlier talks. {% endif %}See the [Talks](/talks/) page for the full list.
 
 Recent Teaching
 ======
@@ -58,7 +58,7 @@ Recent Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %}Plus {{ earlier }} earlier courses. {% endif %}See the [Teaching](/teaching/) page for the full list.
+See the [Teaching](/teaching/) page for the full list.
 
 Recent Grants, Fellowships, and Awards
 ======
