@@ -33,7 +33,7 @@ Recent papers and submissions:
 
 - [3D Printing of Invariant Manifolds in Dynamical Systems](https://doi.org/10.1090/noti3288), with Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, and Julia Seay, cover article in the AMS Notices (January 2026)
 - [Validation of Symmetry Induced Bifurcation Points in Nonlinear Diffusion Problems](https://arxiv.org/abs/2609.38629), with Maxime Breden and Thomas Wanner (2026)
-- [Dynamics of Perturbed Elliptic Billiard Tables](https://arxiv.org/abs/2602.15272), with Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, and Jay Mireles James (2026)
+- [Dynamics of Perturbed Elliptical Billiard Tables](https://arxiv.org/abs/2602.15272), with Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, and Jay Mireles James (2026)
 
 For more details, see my [Publications](https://esander1789.github.io/publications/)
 and [Talks](https://esander1789.github.io/talks/).
