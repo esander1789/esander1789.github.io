@@ -35,6 +35,7 @@ Recent Employment
 - August 25, 2012 - Professor, George Mason University.
 - August 2023 - Graduate Director, Department of Mathematical Sciences, George Mason University.
 - 2020 - Member of the Mason Institute for Digital Innovation
+- See the [full employment history](/career-history/#employment-history).
 
 Recent Publications
 ======
@@ -64,6 +65,7 @@ Recent Grants, Fellowships, and Awards
 ======
 
 - September 1, 2019 - August 31, 2024, Simons Collaboration Grant, "Computation and visualization of dynamical structures" $42,000.
+- See the [full list of grants, fellowships, and awards](/career-history/#grants-fellowships-and-awards).
 
 Service and leadership
 ======

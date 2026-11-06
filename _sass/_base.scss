@@ -5,6 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  /* keep in-page link targets and keyboard focus clear of the fixed masthead */
+  scroll-padding-top: $masthead-height + 20px;
 }
 
 body {
