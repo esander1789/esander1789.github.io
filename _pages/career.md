@@ -1,8 +1,10 @@
 ---
-title: "Career History"
+title: "Career"
 author_profile: true
 layout: archive
-permalink: /career-history/
+permalink: /career/
+redirect_from:
+  - /career-history/
 ---
 
 ## Employment History {#employment-history}
