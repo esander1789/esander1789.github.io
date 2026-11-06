@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<p>All courses were taught at George Mason University unless otherwise noted.</p>
+
+{% assign current_year = "" %}
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% unless current_year == "" %}</ul>{% endunless %}
+    <h2>{{ year }}</h2>
+    <ul class="year-list">
+    {% assign current_year = year %}
+  {% endif %}
+  {% assign term = post.venue | remove: "GMU" | remove: "Georgia Tech" | strip %}
+  <li>{{ term }}: {{ post.type }}, {{ post.title }}{% if post.location != "GMU" %} ({{ post.location }}){% endif %}</li>
 {% endfor %}
+</ul>

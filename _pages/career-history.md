@@ -33,9 +33,9 @@ permalink: /career-history/
 - August 15, 2009 - July 31, 2013 "A Hybrid of Theoretical and Computational Methods for Bifurcation Analysis" (co-PI) NSF Grant Number DMS-0907818, $105,000.
 - 2010-11, COS Publication Award.
 - September 2012-January 2013 Long Term Visitor, Infinite Dimensional and Stochastic Dynamical Systems and Their Applications, Institute for Mathematics and Its Applications, University of Minnesota, Minneapolis.
-- Fall 2014, IBM Visiting Professor, Applied Math, Brown University.
 - January 2014 - June 30, 2014, "Calculus-based STEM learning through the arts," Mason 4-VA Innovation Grant, $20,000.
 - July 2014, Travel Grant, Association for Women in Mathematics, $1736.
 - July 1, 2014 - June 30, 2019, "EXTREEMS-QED: Undergraduate Research in Computational and Data-Enabled Mathematics" (co-PI), NSF Grant Number DMS-1407087 $599,885.
+- Fall 2014, IBM Visiting Professor, Applied Math, Brown University.
 - Fall 2018, Research Member, Hamiltonian systems, from topology to applications through analysis, Mathematical Sciences Research Institute (MSRI), Berkeley, CA.
 - September 1, 2019 - August 31, 2024, Simons Collaboration Grant, "Computation and visualization of dynamical structures" $42,000.

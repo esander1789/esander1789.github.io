@@ -11,6 +11,19 @@ author_profile: true
 
 {% endif %}
 
+{% assign current_year = "" %}
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% unless current_year == "" %}</ul>{% endunless %}
+    <h2>{{ year }}</h2>
+    <ul class="year-list">
+    {% assign current_year = year %}
+  {% endif %}
+  {% assign talk_title = post.title | strip %}
+  {% assign venue = post.venue | strip %}
+  {% assign talk_location = post.location | strip %}
+  {% assign day = post.date | date: "%-d" %}
+  <li><strong>{{ talk_title }}</strong><br>{% if post.talk_kind %}{{ post.talk_kind }}, {% endif %}{% if venue != "" and venue != talk_location %}{{ venue }}, {% endif %}{{ talk_location }}, {% if post.date_display %}{{ post.date_display }}{% elsif day == "1" %}{{ post.date | date: "%B" }}{% else %}{{ post.date | date: "%B %-d" }}{% endif %}</li>
 {% endfor %}
+</ul>

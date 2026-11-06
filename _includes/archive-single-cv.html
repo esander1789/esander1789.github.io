@@ -38,7 +38,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.author }}, {% assign venue = post.venue | strip %}{% if venue != "" %}<i>{{ venue }}</i>, {% endif %}{{ post.citation }},  {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p> {% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{% if post.author %}{{ post.author | strip }}, {% endif %}{% assign venue = post.venue | strip %}{% if venue != "" %}<i>{{ venue }}</i>, {% endif %}{% if post.citation %}{{ post.citation | strip }}, {% endif %}{{ post.date | default: "1900-01-01" | date: "%Y" }}.</p> {% endif %}
     
  </article>
 </div></li>

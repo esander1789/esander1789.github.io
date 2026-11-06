@@ -1,20 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-     
   - title: "CV"
     url: /cv/
 
@@ -24,8 +9,17 @@ main:
   - title: "Makerlab"
     url: /makerlab/
 
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Students"
     url: /students/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Service"
     url: /service/
@@ -33,6 +27,11 @@ main:
   - title: "Why Math?"
     url: /whymath/
 
-    
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
 #  - title: "Guide"
 #    url: /markdown/
