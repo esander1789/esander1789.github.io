@@ -10,7 +10,7 @@ sitemap: false
 ## Publications
 
 - [Validation of Symmetry Induced Bifurcation Points in Nonlinear Diffusion Problems](/files/BSW26.pdf). Maxime Breden, Evelyn Sander, and Thomas Wanner. 2026. (PDF, 46 pages)
-- [Dynamics of Perturbed Elliptic Billiard Tables](/files/BCFMS26.pdf). Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Jay Mireles James, and Evelyn Sander. 2026. (PDF, 42 pages)
+- [Dynamics of Perturbed Elliptical Billiard Tables](/files/BCFMS26.pdf). Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Jay Mireles James, and Evelyn Sander. 2026. (PDF, 42 pages)
 - [3D Printing of Invariant Manifolds in Dynamical Systems](/files/BCFOSS26.pdf). Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, Evelyn Sander, Julia Seay. AMS Notices, 2026. (PDF, 11 pages)
 - [Computing Lyapunov Exponents using Weighted Birkhoff Averages](/files/SM25b.pdf). Evelyn Sander and James D. Meiss. Journal of Physics A: Mathematical and Theoretical, 2025. (PDF, 17 pages)
 - [Resonance and Weak Chaos in Quasiperiodically-Forced Circle Maps](/files/MS25.pdf). James D. Meiss and Evelyn Sander. Nonlinear Science and Numerical Simulation, 2025. (PDF, 14 pages)
