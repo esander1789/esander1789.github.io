@@ -10,6 +10,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 ## PhD Advisor
 
 -	Summer Chenoweth: 	PhD Advisor, Math GMU,   Current
+-	Mitch Komaroff: 	PhD Advisor, Math GMU,   Current
 -	Patrick Bishop:		PhD Advisor, Math GMU,	"[Computation of Dynamical Structures for Dynamical Billiards and Parameter Drift Equations](https://digitalcollections.gmu.edu/record/79616?ln=en&p=Bishop%2C+Patrick&v=pdf)" November 26, 2024				
 -	Sayomi Kamimoto:	PhD Advisor, Math GMU,	"Parameter-Dependent Dynamics of Spatio-Temporal Systems", December 2, 2020	
 -	Vandana Saini:		PhD Advisor, Math GMU,	"[Period-Doubling Cascades in One and Two Parameter Maps](https://hdl.handle.net/1920/12550)", December 2, 2020
