@@ -19,7 +19,7 @@ redirect_from:
 - 2005-2012 Associate professor, George Mason University.
 - August 25, 2012 - Professor, George Mason University.
 - 2020 - Member of the Mason Institute for Digital Innovation
-- August 2023 - Graduate Director, Department of Mathematical Sciences, George Mason University.
+- August 2023 - Director of Graduate Studies, Department of Mathematical Sciences, George Mason University.
 
 ## Grants, Fellowships, and Awards {#grants-fellowships-and-awards}
 

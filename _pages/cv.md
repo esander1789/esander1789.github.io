@@ -33,7 +33,7 @@ Recent Employment
 ======
 
 - August 25, 2012 - Professor, George Mason University.
-- August 2023 - Graduate Director, Department of Mathematical Sciences, George Mason University.
+- August 2023 - Director of Graduate Studies, Department of Mathematical Sciences, George Mason University.
 - 2020 - Member of the Mason Institute for Digital Innovation
 - See the [full employment history](/career/#employment-history).
 
@@ -69,7 +69,7 @@ Recent Grants, Fellowships, and Awards
 
 Service and leadership
 ======
-* Graduate Director, Department of Mathematical Sciences, George Mason University, August 2023 - present
+* Director of Graduate Studies, Department of Mathematical Sciences, George Mason University, August 2023 - present
 * Member of the SIAM Journal Committee, 2026 - 2028
 * Member of the SIAM Council, 2022 - 2027
 * Associate Editor, SIAM Journal on Applied Dynamical Systems, 2010 - present
