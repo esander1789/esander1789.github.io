@@ -67,7 +67,8 @@ Students
 ======
 
 * Ph.D. students: Summer Chenoweth (current), Mitch Komaroff (current), Patrick Bishop (2024), Sayomi Kamimoto (2020), Vandana Saini (2020), Robert Reznik (2016), Michael Crone (2015), Richard Tatum (2010)
-* Regularly advises undergraduate research students
+* Regular mentor for over 30 undergraduate research students
+* Supervisor for over 20 undergraduate learning assistants, graduate learning assistants, and Makerlab assistants
 * See the [Students](/students/) page for more information.
 
 Recent Grants, Fellowships, and Awards
