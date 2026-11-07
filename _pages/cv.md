@@ -63,6 +63,13 @@ Recent Teaching
 
 See the [Teaching](/teaching/) page for the full list.
 
+Students
+======
+
+* Ph.D. students: Summer Chenoweth (current), Mitch Komaroff (current), Patrick Bishop (2024), Sayomi Kamimoto (2020), Vandana Saini (2020), Robert Reznik (2016), Michael Crone (2015), Richard Tatum (2010)
+* Regularly advises undergraduate research students
+* See the [Students](/students/) page for more information.
+
 Recent Grants, Fellowships, and Awards
 ======
 
