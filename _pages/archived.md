@@ -13,7 +13,7 @@ sitemap: false
 - [Dynamics of Perturbed Elliptical Billiard Tables](/files/BCFMS26.pdf). Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Jay Mireles James, and Evelyn Sander. 2026. (PDF, 42 pages)
 - [3D Printing of Invariant Manifolds in Dynamical Systems](/files/BCFOSS26.pdf). Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, Evelyn Sander, Julia Seay. AMS Notices, 2026. (PDF, 11 pages)
 - [Computing Lyapunov Exponents using Weighted Birkhoff Averages](/files/SM25b.pdf). Evelyn Sander and James D. Meiss. Journal of Physics A: Mathematical and Theoretical, 2025. (PDF, 17 pages)
-- [Resonance and Weak Chaos in Quasiperiodically-Forced Circle Maps](/files/MS25.pdf). James D. Meiss and Evelyn Sander. Nonlinear Science and Numerical Simulation, 2025. (PDF, 14 pages)
+- [Resonance and Weak Chaos in Quasiperiodically-Forced Circle Maps](/files/MS25.pdf). James D. Meiss and Evelyn Sander. Communications in Nonlinear Science and Numerical Simulation, 2025. (PDF, 14 pages)
 - [Proportions of Incommensurate, Resonant, and Chaotic Orbits for Torus Maps](/files/SM25.pdf). Evelyn Sander and James D. Meiss. Chaos: An Interdisciplinary Journal of Nonlinear Science (AIP), 2025. (PDF, 16 pages)
 - [Stability of Floating Objects at a Two-Fluid Interface](/files/ABBCST24.pdf). D.M. Anderson, P.R. Bishop, M. Brant, G. Castaneda Guzman, E. Sander, and G. Thomas. European Journal of Physics, 2024. (PDF, 30 pages)
 - [Cyclic Symmetry Induced Pitchfork Bifurcations in the Diblock Copolymer Model](/files/RSW24.pdf). Peter Rizzi, Evelyn Sander, and Thomas Wanner. Discrete and Continuous Dynamical Systems Series B, 2024. (PDF, 36 pages)
