@@ -2,7 +2,7 @@
 permalink:  /publication/BJMSS03
 
 date: 2003-01-01
-author:  "E. Barreto, K. Josic, C. Morales, E. Sander, and P. So"
+author:  "E. Barreto, K. Josic, C. Morales*, E. Sander, and P. So"
 venue:  "Chaos"
 paperurl2:  http://scitation.aip.org/content/aip/journal/chaos/13/1/10.1063/1.1512927
 slidesurl:  https://doi.org/10.1063/1.1512927
