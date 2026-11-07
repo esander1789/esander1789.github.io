@@ -2,7 +2,7 @@
 permalink:  /publication/DSSY19
 
 date: 2019-01-01
-author:  "S. Das, Y. Saiki, E. Sander, and J.A. Yorke"
+author:  "S. Das†, Y. Saiki, E. Sander, and J.A. Yorke"
 venue:  "Discrete & Continuous Dynamical Systems - S"
 paperurl2:  http://aimsciences.org//article/doi/10.3934/dcdss.2019145
 slidesurl:  https://doi.org/doi:10.3934/dcdss.2019145

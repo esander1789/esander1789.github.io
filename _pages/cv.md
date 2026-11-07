@@ -39,6 +39,8 @@ Recent Employment
 
 Recent Publications
 ======
+† graduate student co-author; \* undergraduate student co-author.
+
   {% assign items = site.publications | reverse %}<ul>{% for post in items limit:10 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

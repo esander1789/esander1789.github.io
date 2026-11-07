@@ -2,7 +2,7 @@
 permalink:  /publication/DSSY17
 
 date: 2017-01-01
-author:  "S. Das, Y. Saiki, E. Sander, and J.A. Yorke"
+author:  "S. Das†, Y. Saiki, E. Sander, and J.A. Yorke"
 venue:  "Nonlinearity"
 paperurl2:  http://stacks.iop.org/0951-7715/30/i=11/a=4111?key=crossref.e793ada310b40df41adcc8e49037832e
 slidesurl:  https://doi.org/doi:10.1088/1361-6544/aa84c2

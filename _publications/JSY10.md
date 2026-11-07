@@ -2,7 +2,7 @@
 permalink:  /publication/JSY10
 
 date: 2010-01-01
-author:  "M.R. Joglekar, E. Sander, and J.A. Yorke"
+author:  "M.R. Joglekar†, E. Sander, and J.A. Yorke"
 venue:  "Journal of Fixed Point Theory and Applications"
 paperurl2:  http://link.springer.com/article/10.1007/s11784-010-0029-5
 slidesurl:  https://doi.org/10.1007/s11784-010-0029-5

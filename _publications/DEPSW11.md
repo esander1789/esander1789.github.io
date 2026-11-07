@@ -2,7 +2,7 @@
 permalink:  /publication/DEPSW11
 
 date: 2011-01-01
-author:  "Jonathan P. Desi, Hanein Edrees, Joseph J. Price, E. Sander, and T. Wanner"
+author:  "Jonathan P. Desi†, Hanein Edrees*, Joseph J. Price*, E. Sander, and T. Wanner"
 venue:  "SIAM Journal on Applied Dynamical Systems"
 paperurl2:  http://epubs.siam.org/doi/abs/10.1137/100801378
 slidesurl:  https://doi.org/10.1137/100801378
