@@ -7,7 +7,7 @@ venue:  "International Journal of Bifurcation and Chaos"
 slidesurl: http://www.worldscientific.com/doi/abs/10.1142/S0218127415300116
 slidesurl2: ../files/SY15a-cover.pdf
 title:  "The many facets of chaos"
-citation: "25(4), 15300"
+citation: "25(4): 1530011"
 collection: publications
 
 ---
