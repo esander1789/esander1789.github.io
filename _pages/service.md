@@ -65,7 +65,7 @@ permalink: /service/
  - Organizer, Lean Learning Seminar, Fall 2026
  - Review of Doctoral Research Scholarship Applications, GMU Spring 2026
  - Director of Graduate Studies, GMU Dept of Math. Sciences,		August  2023 -		Present
- - GMU Math Policy and Hiring Committee,  2006 - 2008, 2012 - 2014, 2024 - Present
+ - GMU Math Steering Committee,  2006 - 2008, 2012 - 2014, 2024 - Present
  - GMU Math Graduate Committee,			2000	 -	 2010, 2022	 -	Present
  - Curator of the Mathematical Sciences art exhibit, Exploratory Hall display case,			 2014 -		 present
  - Preliminary Exam Committee: Algebra, Linear Analysis, Numerical Analysis, Ordinary Differential Equations,			 2006- present
