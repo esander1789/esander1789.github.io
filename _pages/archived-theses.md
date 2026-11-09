@@ -18,7 +18,7 @@ sitemap: false
 
 ## Masters thesis
 
-- Anne Costolanski: "Explosion Points in Skew Maps", Jul 24, 2007 ([PDF, 57 pages](/files/studentpapers/costolanskithesis072407.pdf))
+- Anne Costolanski: "Explosion Points in Skew Maps", July 24, 2007 ([PDF, 57 pages](/files/studentpapers/costolanskithesis072407.pdf))
 
 ## Undergraduate projects
 

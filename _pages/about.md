@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Professor
-Department of Mathematical Sciences
-George Mason University
+Professor<br>
+Department of Mathematical Sciences<br>
+George Mason University<br>
 Fairfax, Virginia
 
 News
-======
+------
 - In Fall 2026, I am organizing the [Lean Learning Seminar](https://science.gmu.edu/academics/departments-units/mathematical-sciences/lean-learning-seminar). 
 I am keeping a relevant  [List of Reading Materials](https://github.com/esander1789/LeanLearningSeminar/blob/main/ReadingMaterials.md) including the news articles on 
 new AI-Lean math results. 
 - I have advised vertically integrated graduate-undergraduate research projects at [MEGL](https://megl.science.gmu.edu), most recently ["Predicting Flood Zones Using Topological Data Analysis"](https://megl.science.gmu.edu/spring-2025/). This project is still ongoing, though not under MEGL.
 
 Research
-======
+------
 My current research is primarily in the fields of dynamical systems and mathematical visualization and design. Recent research includes
 
 - Study of quasiperiodicity and chaos
@@ -40,7 +40,7 @@ and [Talks](https://esander1789.github.io/talks/).
 
 
 Teaching
-======
+------
 - In July 2025 I taught an SL Math Summer Course [Computer Assisted Proofs in Applied Mathematics](https://www.slmath.org/summer-schools/1107)
 with Jonathan Jaquette. I taught this material again as a Special Topics Graduate Class in Spring 2026. 
 - Fall 2026, I am teaching Mathematics Through 3D Printing, a course I have developed.
@@ -48,7 +48,7 @@ with Jonathan Jaquette. I taught this material again as a Special Topics Graduat
 For more details, see my [Teaching](https://esander1789.github.io/teaching/) and [Students](https://esander1789.github.io/students/) pages.
 
 Service 
-======
+------
 
 - Former Editor-in-Chief and current Associate Editor, [SIAM Journal on Applied Dynamical Systems](https://www.siam.org/publications/siam-journals/siam-journal-on-applied-dynamical-systems/)
 - Council Member, [SIAM](https://www.siam.org)
@@ -58,7 +58,7 @@ Service
 For a complete list of my editorial, professional, and conference service, see my [Service](https://esander1789.github.io/service/) page.
 
 Outreach and Resources
-======
+------
 
 - I run the [GMU Math Makerlab](https://esander1789.github.io/makerlab/)
 - Wondering  about math careers? See [Why Math?](https://esander1789.github.io/whymath/)

@@ -8,18 +8,18 @@ permalink: /service/
 ## Editorial Positions
   
  - Associate editor, SIAM Journal on Applied Dynamical Systems,		2010 - Present
- - Editor in Chief, SIAM Journal on Applied Dynamical Systems,		1/1/2018 -12/31/2023
- - Section Chief Editor, Research Spotlights Section, SIAM Review,			1/1/2014	- 12/31/2017
+ - Editor in Chief, SIAM Journal on Applied Dynamical Systems,		January 1, 2018 - December 31, 2023
+ - Section Chief Editor, Research Spotlights Section, SIAM Review,			January 1, 2014	- December 31, 2017
  - Associate editor, Research Spotlights Section of the SIAM Review,		 2012 -		 2014
  - Editor-in-Chief, DSWeb Magazine,		 2008	 -	 2010
  - Section Chief Editor, Tutorials, DSWeb,			 2004	 -	 2010
  
 ## Professional Positions
  
- - Member of the SIAM Journal Committee, 1/1/2026-12/31/2028
- - Member of the SIAM Council,			 First term: 1/1/2022	 -	 2024, Second term: 2025 - 12/31/2027
- - SIAM Committee on Strategic Initiatives,			 1/1/2023	 -	 12/31/2025
- - SIAM Council Representative to the Board,			 1/1/2023 -		 12/31/2024
+ - Member of the SIAM Journal Committee, January 1, 2026 - December 31, 2028
+ - Member of the SIAM Council,			 First term: January 1, 2022	 -	 2024, Second term: 2025 - December 31, 2027
+ - SIAM Committee on Strategic Initiatives,			 January 1, 2023	 -	 December 31, 2025
+ - SIAM Council Representative to the Board,			 January 1, 2023 -		 December 31, 2024
  - Chair of J. D. Crawford Prize Selection Committee,			Spring 2019 
  - Program Director, SIAM activity group on dynamical systems,			2016 
  - SIAM Dynamical Systems Activity Group Liaison to SIAM News,			2008 -		2016
@@ -29,13 +29,13 @@ permalink: /service/
  - AWM representative to the Coalition of National Science Funding,		 2010	 -	 2011
  - AWM Travel Grant Selection Committee,			 2009 -	 2010
  - Secretary/Treasurer of the SIAM Activity Group on Dynamical Systems (SIAG/DS),			 2008 -		2010
- - AWM representatives for "Promising Recruitment and Retention Strategies to Improve Diversity in STEM," MAA Congressional briefing, Washington, DC		September 1, 2009
+ - AWM representative for "Promising Recruitment and Retention Strategies to Improve Diversity in STEM," MAA Congressional briefing, Washington, DC		September 1, 2009
  - Organizer, DSWeb student Tutorials contest (2 times),		2007-2009
  - Poster competition judge, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT		May 23, 2009	
  - Poster competition judge, Joint Mathematics Meetings, Washington, DC,			January 10, 2009
  - SIAM Activity Group on Life Sciences nominating committee,			 2008	 
  - Poster competition judge, SIAM Conference on Applications of Dynamical Systems, Snowbird, UT		May 23, 2007 
- - Methods of Computational Neuroscience, Marine Biology Laboratory, Woods Hole, MA		August, 2004	
+ - Methods of Computational Neuroscience, Marine Biology Laboratory, Woods Hole, MA		August 2004	
  
 ## Conferences
 
@@ -70,7 +70,7 @@ permalink: /service/
  - Curator of the Mathematical Sciences art exhibit, Exploratory Hall display case,			 2014 -		 present
  - Preliminary Exam Committee: Algebra, Linear Analysis, Numerical Analysis, Ordinary Differential Equations,			 2006- present
  - Teaching peer reviews,			Every semester
- - Teaching letter for 3 year review, January, 2025			
+ - Teaching letter for 3 year review, January 2025			
  - Chair of hiring committee (3 tenure track positions),		2020 -	2021
  - Hiring committee,	 		2021 - 2022
  - Chair of hiring committee,			 2013	 -	 2014		  
@@ -83,7 +83,7 @@ permalink: /service/
  - GMU Math Club Faculty Advisor,			2011	- 2012
  - Joint organizer, Applied and Computational Math Seminar,			 2007	 -	 2012
  - Director of the Undergraduate Research in Computational Math (NSF-sponsored CSUMS) program,			 2011 -	2012
- - Adhoc (elected) member of the COS P&T Committee,			 2010 -	 2011			 
+ - Ad hoc (elected) member of the COS P&T Committee,			 2010 -	 2011			 
  - GMU scheduling of math graduate courses,		2006 -	2008
  - GMU Summer Research Proposal Review,		Spring	 2006 
  - Search Committee, Neuroscience/Biophysics Postdoc, Center for Neural Dynamics,		Spring 2007	
@@ -98,8 +98,8 @@ permalink: /service/
  - Review of proposal for the Chilean National Science Foundation,			January 2019 
  - Review of proposal for the Swiss National Science Foundation,			January 2019
  - NSF Review Panel,			March 22	 - 24, 2015
- - NSF Written proposal reviews,			February, 2010 
- - NSF Site Visitor, Institute for Applied Mathematics and its Applications (IMA), Minneapolis, MN,			March 24 -	25, 2009
+ - NSF Written proposal reviews,			February 2010 
+ - NSF Site Visitor, Institute for Mathematics and its Applications (IMA), Minneapolis, MN,			March 24 -	25, 2009
  - NSF Review Panel,		March 22- 24, 2008
  - Joint NIH-NSF Review Panel/other NIH reviewing,			February 27- 28, 2008
  - NSF Written proposal reviews,			February 2008	

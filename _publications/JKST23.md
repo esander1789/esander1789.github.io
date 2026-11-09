@@ -7,7 +7,7 @@ venue:  "Chaos"
 paperarxiv:   https://arxiv.org/abs/2209.05638
 slidesurl:  https://doi.org/10.1063/5.0166846
 title:  "Reliability and robustness of oscillations in some slow-fast chaotic systems"
-citation: "33, 103135(2023), doi:10.1063/5.0166846"
+citation: "33, 103135 (2023), doi:10.1063/5.0166846"
 collection: publications
 
 ---

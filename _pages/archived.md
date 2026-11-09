@@ -13,7 +13,7 @@ sitemap: false
 
 - [Validation of Symmetry Induced Bifurcation Points in Nonlinear Diffusion Problems](/files/BSW26.pdf). Maxime Breden, Evelyn Sander, and Thomas Wanner. 2026. (PDF, 46 pages)
 - [Dynamics of Perturbed Elliptical Billiard Tables](/files/BCFMS26.pdf). Patrick R. Bishop†, Summer Chenoweth†, Emmanuel Fleurantin, Jay Mireles James, and Evelyn Sander. 2026. (PDF, 42 pages)
-- [3D Printing of Invariant Manifolds in Dynamical Systems](/files/BCFOSS26.pdf). Patrick R. Bishop†, Summer Chenoweth†, Emmanuel Fleurantin, Alonso Ogueda-Oliva†, Evelyn Sander, Julia Seay†. AMS Notices, 2026. (PDF, 11 pages)
+- [3D Printing of Invariant Manifolds in Dynamical Systems](/files/BCFOSS26.pdf). Patrick R. Bishop†, Summer Chenoweth†, Emmanuel Fleurantin, Alonso Ogueda-Oliva†, Evelyn Sander, and Julia Seay†. AMS Notices, 2026. (PDF, 11 pages)
 - [Computing Lyapunov Exponents using Weighted Birkhoff Averages](/files/SM25b.pdf). Evelyn Sander and James D. Meiss. Journal of Physics A: Mathematical and Theoretical, 2025. (PDF, 17 pages)
 - [Resonance and Weak Chaos in Quasiperiodically-Forced Circle Maps](/files/MS25.pdf). James D. Meiss and Evelyn Sander. Communications in Nonlinear Science and Numerical Simulation, 2025. (PDF, 14 pages)
 - [Proportions of Incommensurate, Resonant, and Chaotic Orbits for Torus Maps](/files/SM25.pdf). Evelyn Sander and James D. Meiss. Chaos: An Interdisciplinary Journal of Nonlinear Science (AIP), 2025. (PDF, 16 pages)
@@ -34,7 +34,7 @@ sitemap: false
 - [Rigorous continuation of bifurcation points in the diblock copolymer equation](/files/LSW17.pdf). J-P Lessard, E. Sander, and T. Wanner. Journal of Computational Dynamics, 2017. (PDF, 48 pages)
 - [Generalized Lorenz equations on a three-sphere](/files/SSY17.pdf). Y. Saiki, E. Sander, and J.A. Yorke. The European Physical Journal Special Topics, 2017. (PDF, 2 pages)
 - [Degenerate Nucleation in the Cahn–Hilliard–Cook Model](/files/BSW16.pdf). D. Blömker, E. Sander, and T. Wanner. SIAM Journal on Applied Dynamical Systems, 2016. (PDF, 36 pages)
-- [Quasiperiodicity: Rotation numbers](/files/DSSY16.pdf). S. Das†, Y. Saiki, E. Sander, and J.A. Yorke. Proceeding of The Foundations of Chaos Revisited: From Poincare to Recent Advancements, 2016. (PDF, 16 pages)
+- [Quasiperiodicity: Rotation numbers](/files/DSSY16.pdf). S. Das†, Y. Saiki, E. Sander, and J.A. Yorke. Proceedings of The Foundations of Chaos Revisited: From Poincaré to Recent Advancements, 2016. (PDF, 16 pages)
 - [Validated Saddle-Node Bifurcations and Applications to Lattice Dynamical Systems](/files/SW16.pdf). E. Sander and T. Wanner. SIAM Journal on Applied Dynamical Systems, 2016. (PDF, 44 pages)
 - [Effects of polarization induced by non-weak electric fields on the excitability of elongated neurons with active dendrites](/files/RBSS16.pdf). R.I. Reznik†, E. Barreto, E. Sander, and P. So. Journal of Computational Neuroscience, 2016. (PDF, 24 pages)
 - [Measuring quasiperiodicity](/files/DDSSSWY16.pdf). S. Das†, C.B. Dock\*, Y. Saiki, M. Salgado-Flores\*, E. Sander, J. Wu\*, and J. A. Yorke. Europhysics Letters, 2016. (PDF, 9 pages)

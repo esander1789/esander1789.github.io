@@ -31,7 +31,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -   Ethan Gibson: 		Physics GMU,			Advisor: Peter Becker, July 23, 2026
 -	Justin Thorpe:		Math GMU,						Advisor: Thomas Wanner, July 20, 2026		
 -	Thunyapong Mahapol:	Physics GMU,			Advisor: Peter Becker, April 6, 2026		
--   Maxime Payan:       Ecole Polytechnique Paris, Reviewer  Advisor: Maxime Breden, November 4,2025
+-   Maxime Payan:       Ecole Polytechnique Paris, Reviewer  Advisor: Maxime Breden, November 4, 2025
 -	Peter Rizzi:		Math GMU, Advisor: Thomas Wanner, June 1, 2022								
 -	Guy Djokam:			UMBC, Advisor: Muruhan Rathinam, November 2, 2021		
 -	Elena Queirolo:		Vrije Universiteit Amsterdam,	as Reader.	Advisor: Jan Bouwe van den Berg, April 20, 2019
@@ -43,14 +43,14 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 -	Ratna Khatri:	Learning Assistant Math 401 and Makerlab, 2016-17			
 -	Hannah Klawa:	Learning Assistant Math 675, Fall 2020		
--	Patrick O'Neal:	Makerlab, 2016-2023
+-	Patrick O'Neil:	Makerlab, 2016-2023
 -	Julia Seay: 	Makerlab, 2023-2024					
 -	Summer Chenoweth: 	Makerlab, 2024-2025
 -   Nicole Savir: Makerlab, 2025-present					
 
 ## Masters Advisor
 
--	Anne Costolanski: 	Masters Advisor,	"Explosion Points in Skew Maps", Jul 24, 2007	
+-	Anne Costolanski: 	Masters Advisor,	"Explosion Points in Skew Maps", July 24, 2007	
 -	Vanessa Little:		Masters Advisor, July 1, 2011						
 -	Karen Crossin:		Masters Advisor, December 1, 2003					
 
@@ -66,24 +66,24 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Lihong Han:			Advisor: Dan Anderson, 2006					
 -	Jennifer Attanasi:	Advisor: Thomas Wanner, UMBC, 2001
 
+## Masters MEGL Advisor
+
 -	Will Howard:	MEGL Advisor with Dan Anderson, Makerlab, Spring 2022,	"Stability of Floating Objects"
 -	Frank Pryor: 	MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
 
 ## Undergraduate Advisor
 
--	Marty Roger: 	MEGL Advisor with Tom Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
--   Kyle Hess: 		MEGL Advisor with Tom Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
+-	Marty Roger: 	MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
+-   Kyle Hess: 		MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
 -	Sarah Wendt:	MEGL Advisor with Dan Anderson,	Spring 2024, "Biological Locomotion via Surface Tension"
 -	Mariah Tammera:	MEGL Advisor with Dan Anderson, Spring 2024, "Biological Locomotion via Surface Tension"	
 -	Daniel Horvath:	MEGL Advisor with Dan Anderson, Spring 2024, "Biological Locomotion via Surface Tension"	
 -	Max Werkheiser:	MEGL Advisor with Dan Anderson, Spring 2023-Spring 2024, "Biological Locomotion via Surface Tension"	
 -	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"			
 -	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"		
--	Mark Brant:		,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
--	Gina Thomas:	,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
--	Gabriela Castaneda Guzman:	,		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"	
--	James Nguyen:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"
--	Aiden Dunlop:	MEGL Advisor with Dan Anderson,	Fall 2023, "Biological Locomotion via Surface Tension"
+-	Mark Brant:		MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
+-	Gina Thomas:	MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"		
+-	Gabriela Castaneda Guzman:	MEGL Advisor with Dan Anderson, Spring 2023, "Biological Locomotion via Surface Tension"	
 -	Josh Calvano:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022
 -	Brandon Barreto-Rosa:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022				
 -	Lujain Nsair:	MEGL Advisor with Dan Anderson, Makerlab, "Stability of Floating Objects," Spring 2022	
@@ -97,21 +97,21 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Nima Namazi:	URCM and Senior Thesis Advisor with Thomas Wanner and Tom Stephens, 	"The Dynamics of Nucleation in Cahn-Hilliard-Cook Systems", 2013-14
 -	Kalea Sebesta:	REU	Advisor with Thomas Wanner,	Univ. of Nevada, Reno	"Nucleation in a Two Component Metal Alloy", Summer 2013
 -	Ian Johnson:	URCM and Senior Thesis Advisor with Thomas Wanner,  	"Numerical Continuation for a Diblock Copolymer Model in One Dimension", 2010-11
--	Olga Stulov;	REU	Advisor	with Thomas Wanner, SUNY-New Palz			"Stability of Equilibria in One Dimension for Diblock Copolymer Equation", Summer 2010
--	James O'Beirne:	URCM Advisor with Thomas Wanner	,	2009-10
+-	Olga Stulov:	REU	Advisor	with Thomas Wanner, SUNY-New Paltz			"Stability of Equilibria in One Dimension for Diblock Copolymer Equation", Summer 2010
+-	James O'Beirne:	URCM Advisor with Thomas Wanner,	2009-10
 -	Colleen Ackermann:	REU	Advisor	with Thomas Wanner, Virginia Tech			"Nucleation and Spinodal Decomposition in Multi-component Alloys" (poster and writeup), Summer 2009
 -	William Hardesty:	REU	Advisor with Thomas Wanner,	UMBC					"Nucleation and Spinodal Decomposition in Multi-component Alloys" (poster and writeup), Summer 2009
--	John Price:		URCM Advisor with Thomas Wanner, Poster, SIAM AN July, 2008.	"Phase Separation Dynamics in Multi-component Alloys", 2007-08,			
--	Hanein Edrees:	URCM Advisor with Thomas Wanner,  Poster, SIAM AN July, 2008.	"Phase Separation Dynamics in Multi-component Alloys", 2007-08			
+-	John Price:		URCM Advisor with Thomas Wanner, Poster, SIAM AN July 2008.	"Phase Separation Dynamics in Multi-component Alloys", 2007-08,			
+-	Hanein Edrees:	URCM Advisor with Thomas Wanner,  Poster, SIAM AN July 2008.	"Phase Separation Dynamics in Multi-component Alloys", 2007-08			
 -	Tyler White:	Senior Thesis Advisor,	"A neurological model for shell pattern formation", 2005-06
 -	Robert Allen:	Senior Thesis Advisor,	"Turing Instabilities and Spatial Pattern Formation in One-Dimension", 2002-03
 
 
 ## Undergraduate Learning Assistant Supervisor
 
--   Minh Phan: 			Math 401,	Fall, 2024 and Fall, 2025
--   Eric Zipor: 		Math 401,	Fall, 2024
--   Max Werkheiser: 	Math 401,	Fall, 2023
+-   Minh Phan: 			Math 401,	Fall 2024 and Fall 2025
+-   Eric Zipor: 		Math 401,	Fall 2024
+-   Max Werkheiser: 	Math 401,	Fall 2023
 -	Michael Matthews:	Math 401,	Fall 2023		
 -	Ryan Simmons:		Math 401,	Fall 2022		
 -	Billy Battles:		Math 401,	Fall 2021		
@@ -122,6 +122,6 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Krista Matz:		Math 401,	Fall 2021		
 -	Catie Haggerty:		Math 446,	Spring 2021		
 -	Chloe Ham:			Math 401, 213, 214,			Fall 2019-Spring 2020		
--	Colin Chung:		Math 401, 213, 214, 401, 	Fall 2019-Fall 2020
+-	Colin Chung:		Math 401, 213, 214,	Fall 2019-Fall 2020
 -	Julian Benali:		Math 214,	Fall 2018
 	

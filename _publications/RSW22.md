@@ -7,7 +7,7 @@ venue:  "Communications in Nonlinear Science and Numerical Simulation"
 paperarxiv:  https://arxiv.org/abs/2203.10340
 slidesurl:  https://doi.org/10.1016/j.cnsns.2022.106789
 title:  "Equilibrium validation for triblock copolymers via inverse norm bounds for fourth-order elliptic operators"
-citation: "115: 106789 (2022), 10.1016/j.cnsns.2022.106789"
+citation: "115: 106789 (2022), doi:10.1016/j.cnsns.2022.106789"
 collection: publications
 
 ---

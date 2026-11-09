@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Address
-======
+------
 
 Department of Mathematical Sciences  
 George Mason University, MS 3F2   
@@ -19,18 +19,18 @@ George Mason University, MS 3F2
 Fairfax, VA 22030   
 
 Research Interests
-======
+------
 
 My research is primarily in the fields of dynamical systems and mathematical visualization and design.  Current dynamical work focuses on studying systems with chaos and quasiperiodicity, and on developing rigorous computational methods for bifurcation theory. Visualization work concentrates on using 3D printing to create tangible objects from abstract mathematical concepts, and to design experimental objects to test mathematical models. 
 
 Education
-======
+------
 * Ph.D in Mathematics, University of Minnesota, 1996, R. McGehee, advisor.
 * M.S. in Mathematics, University of Minnesota, 1993.
 * B.A. in Mathematics, Northwestern University, 1990, Honors, Phi Beta Kappa
 
 Recent Employment
-======
+------
 
 - August 25, 2012 - Professor, George Mason University.
 - August 2023 - Director of Graduate Studies, Department of Mathematical Sciences, George Mason University.
@@ -38,7 +38,7 @@ Recent Employment
 - See the [full employment history](/career/#employment-history).
 
 Recent Publications
-======
+------
 † graduate student co-author; \* undergraduate student co-author.
 
   {% assign items = site.publications | reverse %}<ul>{% for post in items limit:10 %}
@@ -48,7 +48,7 @@ Recent Publications
 {% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %} {% endif %}See the [Publications](/publications/) page for the full list of publications.
 
 Recent Talks
-======
+------
   {% assign items = site.talks | reverse %}<ul>{% for post in items limit:10 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -56,7 +56,7 @@ Recent Talks
 {% assign earlier = items.size | minus: 10 %}{% if earlier > 0 %}Plus earlier talks. {% endif %}See the [Talks](/talks/) page for the full list.
 
 Recent Teaching
-======
+------
   {% assign items = site.teaching | reverse %}<ul>{% for post in items limit:10 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -64,7 +64,7 @@ Recent Teaching
 See the [Teaching](/teaching/) page for the full list.
 
 Students
-======
+------
 
 * Ph.D. students: Summer Chenoweth (current), Mitch Komaroff (current), Patrick Bishop (2024), Sayomi Kamimoto (2020), Vandana Saini (2020), Robert Reznik (2016), Michael Crone (2015), Richard Tatum (2010)
 * Mentor for over 30 undergraduate research students
@@ -72,13 +72,13 @@ Students
 * See the [Students](/students/) page for more information.
 
 Recent Grants, Fellowships, and Awards
-======
+------
 
 - September 1, 2019 - August 31, 2024, Simons Collaboration Grant, "Computation and visualization of dynamical structures" $42,000.
 - See the [full list of grants, fellowships, and awards](/career/#grants-fellowships-and-awards).
 
 Service and leadership
-======
+------
 * Director of Graduate Studies, Department of Mathematical Sciences, George Mason University, August 2023 - present
 * Member of the SIAM Journal Committee, 2026 - 2028
 * Member of the SIAM Council, 2022 - 2027

@@ -25,10 +25,10 @@ redirect_from:
 
 - 1991, 1992, 1994 summer fellowship, School of Mathematics, University of Minnesota.
 - 1995-96 Louise T. Dosdall Graduate fellowship, University of Minnesota.
-- January, 1999 Association for Women in Mathematics travel grant.
-- August, 2000 National Science Foundation travel grant.
-- Spring, 2002 College of Arts and Sciences Junior Faculty Awards in the Social Sciences and Sciences for "Noninvertibility in Biological Models."
-- Summer, 2002 Summer Research Support for Tenure Track Faculty for "Starchy Gels, Sea Shells, and Animal Coats."
+- January 1999 Association for Women in Mathematics travel grant.
+- August 2000 National Science Foundation travel grant.
+- Spring 2002 College of Arts and Sciences Junior Faculty Awards in the Social Sciences and Sciences for "Noninvertibility in Biological Models."
+- Summer 2002 Summer Research Support for Tenure Track Faculty for "Starchy Gels, Sea Shells, and Animal Coats."
 - January 1, 2004- December 31, 2006 "A dynamical framework for transient neuronal patterns" (Principal Investigator) NIH-NIMH Grant Number R03-MH67659, $140,569.
 - September 1, 2006-August 31, 2010 "Mechanisms of wave propagation in neuronal tissue" (co-PI) CRCNS grant, NIH-NIMH Grant Number R01-MH79502, $1,269,896.
 - September 1, 2006-August 31, 2013, Undergraduate research in computational mathematics (co-PI), CSUMS, NSF Grant Number DMS-0639300, $1,057,257.

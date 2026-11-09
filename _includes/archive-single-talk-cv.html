@@ -33,8 +33,8 @@
         {{ title }}
       {% endif %}
     </h3>
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{% if post.talk_kind %}{{ post.talk_kind }}{% else %}{{ post.type }}{% endif %} at {{ post.venue | strip }}, {{ post.location | strip }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>{% endif %}
+    {% if post.venue%}{% assign venue = post.venue | strip %}{% assign talk_location = post.location | strip %}<p class="archive__item-excerpt" itemprop="description">{% if post.talk_kind %}{{ post.talk_kind }}, {% endif %}{% if venue != "" and venue != talk_location %}{{ venue }}, {% endif %}{{ talk_location }}</p>{% endif %}
     
   </article>
 </div></li>
