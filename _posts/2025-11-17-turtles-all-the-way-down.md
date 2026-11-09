@@ -4,7 +4,7 @@ date: 2025-11-17
 thumbnail: /images/makerlab/news/turtles.jpeg
 ---
 
-<img src="/images/makerlab/news/turtles.jpeg" alt="Turtles 3D print" style="display: block; max-width: 500px; width: 100%; height: auto; margin: 0 auto 1em;">
+<img src="/images/makerlab/news/turtles.jpeg" alt="Turtles 3D print" style="display: block; max-width: min(380px, 100%); height: auto; margin: 0 auto 1em;">
 
 <p>Nicole Savir of the Math Makerlab has had an art piece accepted to the <a href="https://www.ams.org/publicoutreach/math-imagery/2026-exhibition">JMM 2026 Mathematical Art Exhibition</a>.</p>
 
