@@ -8,8 +8,8 @@ permalink: /movie/
 
 1. [Pendulum Gyrations](https://www.youtube.com/watch?v=JyhaHyCvgw4), Meanderings of attractor basins for the forced damped pendulum, 2014, by Evelyn Sander and Jim Yorke.
 1. [Homoclinic Bifurcation in the Hénon Map](../files/movies/henon.mov), 2015, by Evelyn Sander. An animation of the stable and unstable manifolds of the Hénon map as a parameter changes, passing through a homoclinic tangency. Silent video.
-1. [Nucleation](http://math.gmu.edu/~wanner/nucsim/index.html), 2010, by Thomas Wanner. Views from our paper on the nature of phase separation in ternary alloys.
-1. [Spinodal Decomposition](http://math.gmu.edu/~wanner/spidec/index.html), 2008, by Thomas Wanner. A mesoscopic view of a metal alloy as it undergoes phase separation. In a series of papers, we have been able to give an explanation for the nature of the early pattern formation.
+1. Nucleation, 2010, by Thomas Wanner. Views from our paper on the nature of phase separation in ternary alloys.
+1. Spinodal Decomposition, 2008, by Thomas Wanner. A mesoscopic view of a metal alloy as it undergoes phase separation. In a series of papers, we have been able to give an explanation for the nature of the early pattern formation.
 1. [A Three-Dimensional Explosion](../files/movies/prlatt/prlattractor.html), 2007. Watch as the movie's attractive star undergoes a drastic unstable event leading to new depth of character.
 1. [Synchronization Sets in Drive-Response Systems](http://www.dynamicalsystems.org/pi/sm/detail?item=35), 2003. In which a loop of synchrony turns into a zigzag, available from the SIAM DSWeb Picture Gallery.
 1. [Spinodal Decomposition](../files/movies/spinum.html), 1999. Binary alloys forming in glorious color.
