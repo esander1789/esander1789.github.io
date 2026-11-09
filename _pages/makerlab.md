@@ -20,6 +20,18 @@ Activities include research, teaching, outreach, tutorial development, as detail
 - [Current blog](https://mathmakerlab.gmu.edu)
 - [Former blog](http://gmumathmaker.blogspot.com)
 
+**Members**
+
+Current lab members:
+
+- Nicole Savir, graduate student
+- Tomisin Badmus, Learning Assistant
+
+Previous lab members:
+
+- Graduate students: Patrick O’Neil, Patrick Bishop, Julia Seay, Ratna Khatri, Summer Chenoweth
+- Undergraduate students: Arsah Rahman, Colin Chung, Chloe Ham, Sarah Wendt, Mariah Tammera, Daniel Horvath, Max Werkheiser, James Nguyen, Aiden Dunlop, Mark Brant, Gina Thomas, Gabriela Castaneda Guzman, Josh Calvano, Brandon Barreto-Rosa, Lujain Nsair, Eric Zipor, Michael Matthews, Ryan Simmons, Billy Battles, Taylor Fountain, Swan Klein, Krista Matz, Minh Phan
+
 **Teaching**
 
 - Math 401: Mathematics Through 3D Printing (capstone course), every fall starting in 2019
