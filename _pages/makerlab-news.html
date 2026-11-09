@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Makerlab News"
+permalink: /makerlab/news/
+author_profile: true
+---
+
+<p>News from the <a href="/makerlab/">GMU Math Makerlab</a>.</p>
+
+{% assign current_year = "" %}
+{% for post in site.posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% unless current_year == "" %}</ul>{% endunless %}
+    <h2>{{ year }}</h2>
+    <ul class="year-list">
+    {% assign current_year = year %}
+  {% endif %}
+  <li class="news-list__item">
+    {% if post.thumbnail %}<img class="news-list__thumb" src="{{ post.thumbnail }}" alt="" loading="lazy">{% endif %}
+    <span><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+    <span class="news-list__date">{{ post.date | date: "%B %-d, %Y" }}</span></span>
+  </li>
+{% endfor %}
+{% unless current_year == "" %}</ul>{% endunless %}

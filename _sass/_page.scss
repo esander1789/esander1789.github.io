@@ -408,3 +408,48 @@
   line-height: 1.25;
   margin-bottom: 1.5em;
 }
+
+/* Makerlab news photo galleries */
+.news-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25em;
+  margin: 1.5em 0;
+}
+
+.news-gallery figure {
+  margin: 0;
+}
+
+.news-gallery img,
+.news-gallery video {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.news-gallery figcaption {
+  margin-top: 0.4em;
+  font-size: $type-size-6;
+}
+
+.news-list__item {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+  margin-bottom: 1.25em;
+}
+
+.news-list__thumb {
+  flex: 0 0 96px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+
+.news-list__date {
+  display: block;
+  font-size: $type-size-6;
+  color: $dark-gray;
+}
