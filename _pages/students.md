@@ -66,10 +66,10 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 -	Lihong Han:			Advisor: Dan Anderson, 2006					
 -	Jennifer Attanasi:	Advisor: Thomas Wanner, UMBC, 2001
 
-## Masters MEGL Advisor
+## Graduate Mentor
 
--	Will Howard:	MEGL Advisor with Dan Anderson, Makerlab, Spring 2022,	"Stability of Floating Objects"
--	Frank Pryor: 	MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
+-	Will Howard:	Graduate Student, MEGL Advisor with Dan Anderson, Makerlab, Spring 2022,	"Stability of Floating Objects"
+-	Frank Pryor: 	Graduate Student, MEGL Advisor with Thomas Wanner, Spring 2025, "Predicting Flood Zones Using Topological Data Analysis"
 
 ## Undergraduate Advisor
 
@@ -109,6 +109,7 @@ Unless otherwise specified, at the Department of Mathematical Sciences at  Georg
 
 ## Undergraduate Learning Assistant Supervisor
 
+-   Tomisin Badmus: 		Math 401,	Fall 2026
 -   Minh Phan: 			Math 401,	Fall 2024 and Fall 2025
 -   Eric Zipor: 		Math 401,	Fall 2024
 -   Max Werkheiser: 	Math 401,	Fall 2023

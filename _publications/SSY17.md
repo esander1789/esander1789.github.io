@@ -2,7 +2,7 @@
 permalink:  /publication/SSY17
 
 date: 2017-01-01
-author:  "Y. Saiki, E. Sander, and J.A. Yorke"
+author:  "Yoshitaka Saiki, Evelyn Sander, and James A. Yorke"
 venue:  "The European Physical Journal Special Topics"
 paperurl2:  http://link.springer.com/10.1140/epjst/e2017-70055-y
 slidesurl:  https://doi.org/10.1140/epjst/e2017-70055-y

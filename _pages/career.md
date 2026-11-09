@@ -17,7 +17,7 @@ redirect_from:
 - 2000-2005 Assistant professor, George Mason University.
 - 2005- Member of the Center for Neural Dynamics, Krasnow Institute.
 - 2005-2012 Associate professor, George Mason University.
-- August 25, 2012 - Professor, George Mason University.
+- 2012 - Professor, George Mason University.
 - 2020 - Member of the Mason Institute for Digital Innovation
 - August 2023 - Director of Graduate Studies, Department of Mathematical Sciences, George Mason University.
 

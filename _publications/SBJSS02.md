@@ -2,7 +2,7 @@
 permalink:  /publication/SBJSS02
 
 date: 2002-01-01
-author:  "P. So, E. Barreto, K. Josic, E. Sander and S.J. Schiff"
+author:  "Paul So, Ernest Barreto, Krešimir Josić, Evelyn Sander, and Steven J. Schiff"
 venue:  "Physical Review E"
 paperurl2:  http://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.046225
 slidesurl:  https://doi.org/10.1103/PhysRevE.65.046225

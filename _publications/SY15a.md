@@ -2,7 +2,7 @@
 permalink:  /publication/SY15a
 
 date: 2015-01-01
-author:  "E. Sander and J.A. Yorke"
+author:  "Evelyn Sander and James A. Yorke"
 venue:  "International Journal of Bifurcation and Chaos"
 slidesurl: http://www.worldscientific.com/doi/abs/10.1142/S0218127415300116
 slidesurl2: ../files/SY15a-cover.pdf

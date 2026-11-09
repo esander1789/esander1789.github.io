@@ -2,7 +2,7 @@
 permalink:  /publication/ASY07
 
 date: 2007-01-01
-author:  "K.T. Alligood, E. Sander, and J.A. Yorke"
+author:  "Kathleen T. Alligood, Evelyn Sander, and James A. Yorke"
 venue:  "Rendiconti del Seminario Matematico, Torino"
 title:  "Explosions in dimensions one through three"
 citation: "65(1): 1-15"

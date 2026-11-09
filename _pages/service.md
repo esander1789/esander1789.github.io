@@ -8,7 +8,7 @@ permalink: /service/
 ## Editorial Positions
   
  - Associate editor, SIAM Journal on Applied Dynamical Systems,		2010 - Present
- - Editor in Chief, SIAM Journal on Applied Dynamical Systems,		January 1, 2018 - December 31, 2023
+ - Editor-in-Chief, SIAM Journal on Applied Dynamical Systems,		January 1, 2018 - December 31, 2023
  - Section Chief Editor, Research Spotlights Section, SIAM Review,			January 1, 2014	- December 31, 2017
  - Associate editor, Research Spotlights Section of the SIAM Review,		 2012 -		 2014
  - Editor-in-Chief, DSWeb Magazine,		 2008	 -	 2010
@@ -97,17 +97,17 @@ permalink: /service/
  - Review of proposals, Simons Collaboration Grants for Mathematicians,			March 2019
  - Review of proposal for the Chilean National Science Foundation,			January 2019 
  - Review of proposal for the Swiss National Science Foundation,			January 2019
- - NSF Review Panel,			March 22	 - 24, 2015
+ - NSF Review Panel,			March 2015
  - NSF Written proposal reviews,			February 2010 
  - NSF Site Visitor, Institute for Mathematics and its Applications (IMA), Minneapolis, MN,			March 24 -	25, 2009
- - NSF Review Panel,		March 22- 24, 2008
+ - NSF Review Panel,		March 2008
  - Joint NIH-NSF Review Panel/other NIH reviewing,			February 27- 28, 2008
  - NSF Written proposal reviews,			February 2008	
- - NSF Review Panel,			March 22-24, 2007
- - NSF Review Panel,			March 22- 24, 2006
+ - NSF Review Panel,			March 2007
+ - NSF Review Panel,			March 2006
  - Mathematical Reviews,		 1998	 -	2006
- - Joint NIH-NSF Review Panel/other NIH reviewing,		March 22- 24, 2005
- - Joint NIH-NSF Review Panel,			March 22-24, 2004
+ - Joint NIH-NSF Review Panel/other NIH reviewing,		March 2005
+ - Joint NIH-NSF Review Panel,			March 2004
   - Regular review of papers  <!--- Journal of Mathematical Analysis and Applications, Mathematics Magazine, Nonlinear Analysis, , Physical Review Letters, Journal of Mathematical Biology, Scholarpedia, Journal of Computational Neuroscience, Applied Mathematics and Optimization , Physical Review E, Nonlinearity, Fractals, Mathematical Methods in the Applied Sciences, SIADS, SIAM Review, Journal of Physics A, SIAM Undergraduate Research Online, Journal of Difference Equations and Applications, Mathematics and Computers in Simulation, Discrete and Continuous Dynamical Systems Series B, Physics Letters A, International Journal for Bifurcation and Chaos, Journal of Difference Equations and Applications, Physica D, Qualitative Theory of Dynamical Systems, Springer Series, Journal of Differential Equations, Association for Women in Mathematics: The First Fifty Years, Chaos, PSAPM, PSAPM, Chaos, Chaos)		January 15, 1996	January 15, 2027 --->
 
 ## Mentoring 

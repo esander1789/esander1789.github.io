@@ -60,7 +60,7 @@ Joel David Hamkins, John Cardinal O'Hara Professor of Logic in the Department of
 Patrick R. Bishop, Summer Chenoweth, Emmanuel Fleurantin, Alonso Ogueda-Oliva, Evelyn Sander, and Julia Seay in the AMS Notices, 2026. 
 
 - The R&ouml;ssler system was originally created in 1976 in "[An equation for continuous chaos](https://www.sciencedirect.com/science/article/abs/pii/0375960176901018)" by O. E. R&ouml;ssler, in Physics Letters, with the goal of showing that chaos could occur in a system that was even simpler than the Lorenz system.
- See also "[Modeling dynamical systems for 3D printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)” by Stephen K. Lucas, E. Sander, and Laura Taalman, in AMS Notices, 2020. 
+ See also "[Modeling dynamical systems for 3D printing](https://www.ams.org/notices/202011/rnoti-p1692.pdf)” by Stephen K. Lucas, Evelyn Sander, and Laura Taalman, in AMS Notices, 2020. 
  
 
 - The Clebsch Diagonal Cubic Surface  is a surface that was studied by Afred Clebsch in his [1871 paper](https://doi.org/10.1007/BF01442599) on the geometric interpretation of the theory of the quintic equation and also by Felix Klein in 1873. It is a nonsingular surface which has as its symmetry group the symmetric group S<sub>5</sub>. See also the [Clebsch surface Wikipedia page](https://en.wikipedia.org/wiki/Clebsch_surface). 

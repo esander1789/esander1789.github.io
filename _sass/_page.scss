@@ -216,6 +216,8 @@
 
 .page__share-title {
   margin-bottom: 10px;
+  padding-bottom: 0;
+  border-bottom: none;
   font-size: $type-size-6;
   text-transform: uppercase;
 }
