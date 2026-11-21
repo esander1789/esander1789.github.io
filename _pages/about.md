@@ -15,8 +15,27 @@ Fairfax, Virginia
 News
 ------
 - In Fall 2026, I am organizing the [Lean Learning Seminar](https://science.gmu.edu/academics/departments-units/mathematical-sciences/lean-learning-seminar). 
-I am keeping a relevant  [List of Reading Materials](https://github.com/esander1789/LeanLearningSeminar/blob/main/ReadingMaterials.md) including the news articles on 
-new AI-Lean math results. 
+This turns out to have been the single best timed decision I have ever made, because 
+we are right on the cusp of a critical transition of mathematics, and me and the rest of the attendees of the seminar 
+have had front row seats in watching it happen. 
+
+I have been keeping a relevant  [List of Reading Materials](https://github.com/esander1789/LeanLearningSeminar/blob/main/ReadingMaterials.md) including the news articles on 
+new AI-Lean math results. When I started keeping this section in spring 2026, it was out of interest for a sort of niche part 
+of math that I was super excited about, having taught a graduate topics course on computer assisted proofs in the spring. Who knew that it would be such fortitous timing and that 
+the whole world would get excited about it at the same time? Anyway, enjoy this little 
+history of how it all unfolded.
+
+On November 20, 2026, Anthropic mathematician Levent Alpoge announced that with the help of Claude, 
+he had proved the Riemann Hypothesis. In a separate post on the same day, he and Tristan Buckmaster 
+announced an AI-assisted proof of blow-up solutions for the unforced Navier-Stokes equations.   
+I believe that November 20, 2026 will be known as a day to remember. We have reached the point 
+where AI is to math like the telescope is to astronomy. Yes, you can decide to look at the stars 
+without a telescope, but if you want to be an astronomer, then you have no choice but to use 
+the equipment. I am thrilled to be able to witness this! 
+
+
+
+
 - I have advised vertically integrated graduate-undergraduate research projects at [MEGL](https://megl.science.gmu.edu), most recently ["Predicting Flood Zones Using Topological Data Analysis"](https://megl.science.gmu.edu/spring-2025/). This project is still ongoing, though not under MEGL.
 
 Research
