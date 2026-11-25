@@ -21,7 +21,7 @@ have had front row seats in watching it happen.
 
 I have been keeping a relevant  [List of Reading Materials](https://github.com/esander1789/LeanLearningSeminar/blob/main/ReadingMaterials.md) including the news articles on 
 new AI-Lean math results. When I started keeping this section in spring 2026, it was out of interest for a sort of niche part 
-of math that I was super excited about, having taught a graduate topics course on computer assisted proofs in the spring. Who knew that it would be such fortitous timing and that 
+of math that I was super excited about, having taught a graduate topics course on computer assisted proofs in the spring. Who knew that it would be such fortuitous timing and that 
 the whole world would get excited about it at the same time? Anyway, enjoy this little 
 history of how it all unfolded.
 
